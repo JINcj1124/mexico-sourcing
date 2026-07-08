@@ -21,16 +21,16 @@ def build_1688_url(seed: dict) -> str:
 
     规则：
     - 若种子已提供 detail.1688.com 真实详情页，直接保留
-    - 否则用完整标题关键词生成 1688 搜索链接，避免截断乱码
+    - 否则用核心关键词生成 1688 搜索链接，使用 GBK 编码避免乱码
     """
     url = seed.get("url", "")
     if url and "detail.1688.com" in url:
         return url
 
     title = seed.get("title", "")
-    # 取标题前 15 个字符作为核心关键词，比原来 8 个字更完整，保证搜索命中率
+    # 取前 15 个字符作为核心关键词，并用 GBK 编码生成 1688 可识别的搜索 URL
     keyword = title[:15].strip()
-    return f"https://s.1688.com/selloffer/offer_search.htm?keywords={quote(keyword)}"
+    return f"https://s.1688.com/selloffer/offer_search.htm?keywords={quote(keyword.encode('gbk'), safe='')}"
 
 
 # === 种子商品：1688常见家居品类，价格20±5元，轻量级 ===

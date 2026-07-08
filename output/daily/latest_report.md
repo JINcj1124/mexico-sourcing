@@ -37,7 +37,7 @@
 
 **竞品**: Temu $170 MXN · Shopee $185 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=LED%E4%BB%BF%E7%9C%9F%E7%94%B5%E5%AD%90%E8%9C%A1%E7%83%9B%E7%81%AF%E8%BF%9C%E7%A8%8B%E9%81%A5%E6%8E%A7%E6%97%A0](https://s.1688.com/selloffer/offer_search.htm?keywords=LED%E4%BB%BF%E7%9C%9F%E7%94%B5%E5%AD%90%E8%9C%A1%E7%83%9B%E7%81%AF%E8%BF%9C%E7%A8%8B%E9%81%A5%E6%8E%A7%E6%97%A0)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=LED%B7%C2%D5%E6%B5%E7%D7%D3%C0%AF%D6%F2%B5%C6%D4%B6%B3%CC%D2%A3%BF%D8%CE%DE](https://s.1688.com/selloffer/offer_search.htm?keywords=LED%B7%C2%D5%E6%B5%E7%D7%D3%C0%AF%D6%F2%B5%C6%D4%B6%B3%CC%D2%A3%BF%D8%CE%DE)
 
 **选品理由**: 价格对标：低于竞品最低¥71.4，调整至¥70.4
 
@@ -51,7 +51,7 @@
 
 **竞品**: Temu $190 MXN · Shopee $200 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%E5%88%9B%E6%84%8F%E5%AE%87%E8%88%AA%E5%91%98%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6%E6%A1%8C%E9%9D%A2%E6%91%86%E4%BB%B6%E6%94%B6%E7%BA%B3](https://s.1688.com/selloffer/offer_search.htm?keywords=%E5%88%9B%E6%84%8F%E5%AE%87%E8%88%AA%E5%91%98%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6%E6%A1%8C%E9%9D%A2%E6%91%86%E4%BB%B6%E6%94%B6%E7%BA%B3)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%B4%B4%D2%E2%D3%EE%BA%BD%D4%B1%CA%D6%BB%FA%D6%A7%BC%DC%D7%C0%C3%E6%B0%DA%BC%FE%CA%D5%C4%C9](https://s.1688.com/selloffer/offer_search.htm?keywords=%B4%B4%D2%E2%D3%EE%BA%BD%D4%B1%CA%D6%BB%FA%D6%A7%BC%DC%D7%C0%C3%E6%B0%DA%BC%FE%CA%D5%C4%C9)
 
 **选品理由**: 价格对标：低于竞品最低¥79.8，调整至¥78.8
 
@@ -65,7 +65,7 @@
 
 **竞品**: Temu $140 MXN · Shopee $155 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%95%B0%E6%8D%AE%E7%BA%BF%E6%94%B6%E7%BA%B3%E9%AD%94%E6%9C%AF%E8%B4%B4%E7%BB%91%E5%B8%A6%E7%90%86%E7%BA%BF%E5%99%A8%E6%A1%8C%E9%9D%A2](https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%95%B0%E6%8D%AE%E7%BA%BF%E6%94%B6%E7%BA%B3%E9%AD%94%E6%9C%AF%E8%B4%B4%E7%BB%91%E5%B8%A6%E7%90%86%E7%BA%BF%E5%99%A8%E6%A1%8C%E9%9D%A2)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%CA%FD%BE%DD%CF%DF%CA%D5%C4%C9%C4%A7%CA%F5%CC%F9%B0%F3%B4%F8%C0%ED%CF%DF%C6%F7%D7%C0%C3%E6](https://s.1688.com/selloffer/offer_search.htm?keywords=%CA%FD%BE%DD%CF%DF%CA%D5%C4%C9%C4%A7%CA%F5%CC%F9%B0%F3%B4%F8%C0%ED%CF%DF%C6%F7%D7%C0%C3%E6)
 
 **选品理由**: 价格对标：低于竞品最低¥58.8，调整至¥57.8
 
@@ -79,7 +79,7 @@
 
 **竞品**: Temu $130 MXN · Shopee $145 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=LED%E9%93%9C%E7%BA%BF%E7%81%AF%E4%B8%B2%E7%94%B5%E6%B1%A0%E7%9B%92%E6%98%9F%E6%98%9F%E7%81%AF%E5%8D%A7%E5%AE%A4](https://s.1688.com/selloffer/offer_search.htm?keywords=LED%E9%93%9C%E7%BA%BF%E7%81%AF%E4%B8%B2%E7%94%B5%E6%B1%A0%E7%9B%92%E6%98%9F%E6%98%9F%E7%81%AF%E5%8D%A7%E5%AE%A4)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=LED%CD%AD%CF%DF%B5%C6%B4%AE%B5%E7%B3%D8%BA%D0%D0%C7%D0%C7%B5%C6%CE%D4%CA%D2](https://s.1688.com/selloffer/offer_search.htm?keywords=LED%CD%AD%CF%DF%B5%C6%B4%AE%B5%E7%B3%D8%BA%D0%D0%C7%D0%C7%B5%C6%CE%D4%CA%D2)
 
 **选品理由**: 价格对标：低于竞品最低¥54.6，调整至¥53.6
 
@@ -93,7 +93,7 @@
 
 **竞品**: Temu $150 MXN · Shopee $170 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%E8%87%AA%E7%B2%98%E5%8C%97%E6%AC%A7%E9%A3%8E%E5%A2%99%E7%BA%B8%E5%AE%A2%E5%8E%85%E5%8D%A7%E5%AE%A4%E8%83%8C%E6%99%AF%E5%A2%99%E5%A3%81](https://s.1688.com/selloffer/offer_search.htm?keywords=%E8%87%AA%E7%B2%98%E5%8C%97%E6%AC%A7%E9%A3%8E%E5%A2%99%E7%BA%B8%E5%AE%A2%E5%8E%85%E5%8D%A7%E5%AE%A4%E8%83%8C%E6%99%AF%E5%A2%99%E5%A3%81)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%D7%D4%D5%B3%B1%B1%C5%B7%B7%E7%C7%BD%D6%BD%BF%CD%CC%FC%CE%D4%CA%D2%B1%B3%BE%B0%C7%BD%B1%DA](https://s.1688.com/selloffer/offer_search.htm?keywords=%D7%D4%D5%B3%B1%B1%C5%B7%B7%E7%C7%BD%D6%BD%BF%CD%CC%FC%CE%D4%CA%D2%B1%B3%BE%B0%C7%BD%B1%DA)
 
 **选品理由**: 价格对标：低于竞品最低¥63.0，调整至¥62.0
 
@@ -107,7 +107,7 @@
 
 **竞品**: Temu $160 MXN · Shopee $175 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%E8%BF%B7%E4%BD%A0%E9%99%B6%E7%93%B7%E5%B0%8F%E8%8A%B1%E7%93%B6ins%E9%A3%8E%E6%A1%8C%E9%9D%A2%E8%A3%85%E9%A5%B0](https://s.1688.com/selloffer/offer_search.htm?keywords=%E8%BF%B7%E4%BD%A0%E9%99%B6%E7%93%B7%E5%B0%8F%E8%8A%B1%E7%93%B6ins%E9%A3%8E%E6%A1%8C%E9%9D%A2%E8%A3%85%E9%A5%B0)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%C3%D4%C4%E3%CC%D5%B4%C9%D0%A1%BB%A8%C6%BFins%B7%E7%D7%C0%C3%E6%D7%B0%CA%CE](https://s.1688.com/selloffer/offer_search.htm?keywords=%C3%D4%C4%E3%CC%D5%B4%C9%D0%A1%BB%A8%C6%BFins%B7%E7%D7%C0%C3%E6%D7%B0%CA%CE)
 
 **选品理由**: 价格对标：低于竞品最低¥67.2，调整至¥66.2
 
@@ -121,7 +121,7 @@
 
 **竞品**: Temu $170 MXN · Shopee $185 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%E5%A4%8D%E5%8F%A4%E9%93%81%E8%89%BA%E7%83%9B%E5%8F%B0%E6%91%86%E4%BB%B6%E5%88%9B%E6%84%8F%E5%AE%B6%E5%B1%85%E8%A3%85%E9%A5%B0%E5%AE%A2](https://s.1688.com/selloffer/offer_search.htm?keywords=%E5%A4%8D%E5%8F%A4%E9%93%81%E8%89%BA%E7%83%9B%E5%8F%B0%E6%91%86%E4%BB%B6%E5%88%9B%E6%84%8F%E5%AE%B6%E5%B1%85%E8%A3%85%E9%A5%B0%E5%AE%A2)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%B8%B4%B9%C5%CC%FA%D2%D5%D6%F2%CC%A8%B0%DA%BC%FE%B4%B4%D2%E2%BC%D2%BE%D3%D7%B0%CA%CE%BF%CD](https://s.1688.com/selloffer/offer_search.htm?keywords=%B8%B4%B9%C5%CC%FA%D2%D5%D6%F2%CC%A8%B0%DA%BC%FE%B4%B4%D2%E2%BC%D2%BE%D3%D7%B0%CA%CE%BF%CD)
 
 **选品理由**: 价格对标：低于竞品最低¥71.4，调整至¥70.4
 
@@ -149,7 +149,7 @@
 
 **竞品**: Temu $200 MXN · Shopee $215 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%E4%B8%87%E5%9C%A3%E8%8A%82%E8%A3%85%E9%A5%B0%E5%A5%97%E8%A3%85%E5%8D%97%E7%93%9C%E8%9D%99%E8%9D%A0%E8%9C%98%E8%9B%9B%E7%BD%91%E6%8B%89](https://s.1688.com/selloffer/offer_search.htm?keywords=%E4%B8%87%E5%9C%A3%E8%8A%82%E8%A3%85%E9%A5%B0%E5%A5%97%E8%A3%85%E5%8D%97%E7%93%9C%E8%9D%99%E8%9D%A0%E8%9C%98%E8%9B%9B%E7%BD%91%E6%8B%89)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%CD%F2%CA%A5%BD%DA%D7%B0%CA%CE%CC%D7%D7%B0%C4%CF%B9%CF%F2%F9%F2%F0%D6%A9%D6%EB%CD%F8%C0%AD](https://s.1688.com/selloffer/offer_search.htm?keywords=%CD%F2%CA%A5%BD%DA%D7%B0%CA%CE%CC%D7%D7%B0%C4%CF%B9%CF%F2%F9%F2%F0%D6%A9%D6%EB%CD%F8%C0%AD)
 
 **选品理由**: 价格对标：低于竞品最低¥84.0，调整至¥83.0
 
@@ -163,7 +163,7 @@
 
 **竞品**: Temu $190 MXN · Shopee $200 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%E9%AA%B7%E9%AB%85%E5%A4%B4%E9%80%A0%E5%9E%8B%E6%91%86%E4%BB%B6%E5%88%9B%E6%84%8F%E5%AE%B6%E5%B1%85%E8%A3%85%E9%A5%B0%E4%BA%A1%E7%81%B5](https://s.1688.com/selloffer/offer_search.htm?keywords=%E9%AA%B7%E9%AB%85%E5%A4%B4%E9%80%A0%E5%9E%8B%E6%91%86%E4%BB%B6%E5%88%9B%E6%84%8F%E5%AE%B6%E5%B1%85%E8%A3%85%E9%A5%B0%E4%BA%A1%E7%81%B5)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%F7%BC%F7%C3%CD%B7%D4%EC%D0%CD%B0%DA%BC%FE%B4%B4%D2%E2%BC%D2%BE%D3%D7%B0%CA%CE%CD%F6%C1%E9](https://s.1688.com/selloffer/offer_search.htm?keywords=%F7%BC%F7%C3%CD%B7%D4%EC%D0%CD%B0%DA%BC%FE%B4%B4%D2%E2%BC%D2%BE%D3%D7%B0%CA%CE%CD%F6%C1%E9)
 
 **选品理由**: 价格对标：低于竞品最低¥79.8，调整至¥78.8
 
@@ -177,7 +177,7 @@
 
 **竞品**: Temu $145 MXN · Shopee $155 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%E5%BD%A9%E8%89%B2%E9%A3%8E%E9%93%83%E6%8C%82%E9%A5%B0%E9%98%B3%E5%8F%B0%E5%BA%AD%E9%99%A2%E8%8A%B1%E5%9B%AD%E8%A3%85%E9%A5%B0%E9%A3%8E](https://s.1688.com/selloffer/offer_search.htm?keywords=%E5%BD%A9%E8%89%B2%E9%A3%8E%E9%93%83%E6%8C%82%E9%A5%B0%E9%98%B3%E5%8F%B0%E5%BA%AD%E9%99%A2%E8%8A%B1%E5%9B%AD%E8%A3%85%E9%A5%B0%E9%A3%8E)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%B2%CA%C9%AB%B7%E7%C1%E5%B9%D2%CA%CE%D1%F4%CC%A8%CD%A5%D4%BA%BB%A8%D4%B0%D7%B0%CA%CE%B7%E7](https://s.1688.com/selloffer/offer_search.htm?keywords=%B2%CA%C9%AB%B7%E7%C1%E5%B9%D2%CA%CE%D1%F4%CC%A8%CD%A5%D4%BA%BB%A8%D4%B0%D7%B0%CA%CE%B7%E7)
 
 **选品理由**: 价格对标：低于竞品最低¥60.9，调整至¥59.9
 
@@ -191,7 +191,7 @@
 
 **竞品**: Temu $190 MXN · Shopee $200 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%E9%BB%84%E9%93%9C%E5%B0%8F%E9%B9%BF%E6%91%86%E4%BB%B6%E5%AE%B6%E5%B1%85%E8%A3%85%E9%A5%B0%E5%93%81%E7%94%B5%E8%A7%86%E6%9F%9C%E7%8E%84](https://s.1688.com/selloffer/offer_search.htm?keywords=%E9%BB%84%E9%93%9C%E5%B0%8F%E9%B9%BF%E6%91%86%E4%BB%B6%E5%AE%B6%E5%B1%85%E8%A3%85%E9%A5%B0%E5%93%81%E7%94%B5%E8%A7%86%E6%9F%9C%E7%8E%84)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%BB%C6%CD%AD%D0%A1%C2%B9%B0%DA%BC%FE%BC%D2%BE%D3%D7%B0%CA%CE%C6%B7%B5%E7%CA%D3%B9%F1%D0%FE](https://s.1688.com/selloffer/offer_search.htm?keywords=%BB%C6%CD%AD%D0%A1%C2%B9%B0%DA%BC%FE%BC%D2%BE%D3%D7%B0%CA%CE%C6%B7%B5%E7%CA%D3%B9%F1%D0%FE)
 
 **选品理由**: 价格对标：低于竞品最低¥79.8，调整至¥78.8
 
@@ -205,7 +205,7 @@
 
 **竞品**: Temu $200 MXN · Shopee $215 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%E5%BD%A9%E8%89%B2%E6%B0%94%E7%90%83%E6%8B%B1%E9%97%A8%E6%94%AF%E6%9E%B6%E5%A9%9A%E5%BA%86%E7%94%9F%E6%97%A5%E6%B4%BE%E5%AF%B9%E5%B8%83](https://s.1688.com/selloffer/offer_search.htm?keywords=%E5%BD%A9%E8%89%B2%E6%B0%94%E7%90%83%E6%8B%B1%E9%97%A8%E6%94%AF%E6%9E%B6%E5%A9%9A%E5%BA%86%E7%94%9F%E6%97%A5%E6%B4%BE%E5%AF%B9%E5%B8%83)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%B2%CA%C9%AB%C6%F8%C7%F2%B9%B0%C3%C5%D6%A7%BC%DC%BB%E9%C7%EC%C9%FA%C8%D5%C5%C9%B6%D4%B2%BC](https://s.1688.com/selloffer/offer_search.htm?keywords=%B2%CA%C9%AB%C6%F8%C7%F2%B9%B0%C3%C5%D6%A7%BC%DC%BB%E9%C7%EC%C9%FA%C8%D5%C5%C9%B6%D4%B2%BC)
 
 **选品理由**: 价格对标：低于竞品最低¥84.0，调整至¥83.0
 
@@ -219,7 +219,7 @@
 
 **竞品**: Temu $140 MXN · Shopee $155 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%E9%97%A8%E5%90%8E%E6%8C%82%E9%92%A9%E6%94%B6%E7%BA%B3%E6%9E%B6%E6%8C%82%E8%A1%A3%E6%9E%B6%E5%85%8D%E6%89%93%E5%AD%94%E5%8D%A7%E5%AE%A4](https://s.1688.com/selloffer/offer_search.htm?keywords=%E9%97%A8%E5%90%8E%E6%8C%82%E9%92%A9%E6%94%B6%E7%BA%B3%E6%9E%B6%E6%8C%82%E8%A1%A3%E6%9E%B6%E5%85%8D%E6%89%93%E5%AD%94%E5%8D%A7%E5%AE%A4)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%C3%C5%BA%F3%B9%D2%B9%B3%CA%D5%C4%C9%BC%DC%B9%D2%D2%C2%BC%DC%C3%E2%B4%F2%BF%D7%CE%D4%CA%D2](https://s.1688.com/selloffer/offer_search.htm?keywords=%C3%C5%BA%F3%B9%D2%B9%B3%CA%D5%C4%C9%BC%DC%B9%D2%D2%C2%BC%DC%C3%E2%B4%F2%BF%D7%CE%D4%CA%D2)
 
 **选品理由**: 价格对标：低于竞品最低¥58.8，调整至¥57.8
 
@@ -233,7 +233,7 @@
 
 **竞品**: Temu $150 MXN · Shopee $170 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%E5%8C%97%E6%AC%A7%E9%A3%8E%E9%93%81%E8%89%BA%E7%BD%91%E6%A0%BC%E7%85%A7%E7%89%87%E5%A2%99%E5%A4%B9%E5%AD%90ins](https://s.1688.com/selloffer/offer_search.htm?keywords=%E5%8C%97%E6%AC%A7%E9%A3%8E%E9%93%81%E8%89%BA%E7%BD%91%E6%A0%BC%E7%85%A7%E7%89%87%E5%A2%99%E5%A4%B9%E5%AD%90ins)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%B1%B1%C5%B7%B7%E7%CC%FA%D2%D5%CD%F8%B8%F1%D5%D5%C6%AC%C7%BD%BC%D0%D7%D3ins](https://s.1688.com/selloffer/offer_search.htm?keywords=%B1%B1%C5%B7%B7%E7%CC%FA%D2%D5%CD%F8%B8%F1%D5%D5%C6%AC%C7%BD%BC%D0%D7%D3ins)
 
 **选品理由**: 价格对标：低于竞品最低¥63.0，调整至¥62.0
 
@@ -261,7 +261,7 @@
 
 **竞品**: Temu $160 MXN · Shopee $175 MXN · 低于竞品¥1
 
-**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%E9%9F%A9%E5%BC%8Fins%E9%A3%8E%E9%80%8F%E6%98%8E%E7%8E%BB%E7%92%83%E8%8A%B1%E7%93%B6%E6%B0%B4%E5%9F%B9%E8%8A%B1](https://s.1688.com/selloffer/offer_search.htm?keywords=%E9%9F%A9%E5%BC%8Fins%E9%A3%8E%E9%80%8F%E6%98%8E%E7%8E%BB%E7%92%83%E8%8A%B1%E7%93%B6%E6%B0%B4%E5%9F%B9%E8%8A%B1)
+**1688货源**: [https://s.1688.com/selloffer/offer_search.htm?keywords=%BA%AB%CA%BDins%B7%E7%CD%B8%C3%F7%B2%A3%C1%A7%BB%A8%C6%BF%CB%AE%C5%E0%BB%A8](https://s.1688.com/selloffer/offer_search.htm?keywords=%BA%AB%CA%BDins%B7%E7%CD%B8%C3%F7%B2%A3%C1%A7%BB%A8%C6%BF%CB%AE%C5%E0%BB%A8)
 
 **选品理由**: 价格对标：低于竞品最低¥67.2，调整至¥66.2
 
