@@ -2,6 +2,7 @@ name: 每日选品日报
 
 on:
   schedule:
+    # UTC 02:00 = 北京时间 10:00 (CST)
     - cron: '0 2 * * *'
   workflow_dispatch:
 

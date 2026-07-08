@@ -31,220 +31,212 @@ def build_1688_url(seed: dict) -> str:
     # 取前 15 个字符作为核心关键词，并用 GBK 编码生成 1688 可识别的搜索 URL
     keyword = title[:15].strip()
     return f"https://s.1688.com/selloffer/offer_search.htm?keywords={quote(keyword.encode('gbk'), safe='')}"
-
-
-# === 种子商品：1688常见家居品类，价格20±5元，轻量级 ===
-# ===== 墨西哥跨境优质选品种子库 =====
+# === 种子商品：2026年7月墨西哥热点选品 ===
+# ===== FIFA World Cup 2026 | Guelaguetza文化节 | Back to School | 独立日 =====
 # 硬约束：非食品接触 | 真实1688链接 | 销量≥100 | 评价≥4.5 | 发货≤48h | 店铺>1年
-# 节日相关性：标注当前活跃节日匹配度
 
 SEED_PRODUCTS = [
-    # ── 墙面装饰 (Wall Decor) ── 墨西哥家庭极其重视墙面布置 ──
-    {"title": "北欧风铁艺网格照片墙夹子ins出租屋改造卧室墙面装饰相片墙挂饰", "cat": "墙饰", "price": 15.8, "w": 0.30, "l": 35, "wi": 25, "h": 2,
-     "store": "义乌市臻品家居用品商行", "yr": 4.0, "rt": 4.8, "dh": 24, "sales": 5800,
-     "url": "https://detail.1688.com/offer/885742165371.html",
-     "image_url": "https://loremflickr.com/400/300/wall,decor,grid",
-     "desc": "北欧风铁艺网格照片墙，附赠夹子，出租屋卧室轻松改造。0.3kg极轻省运费，墨西哥家庭热爱墙面布置，ins风审美契合当地年轻人市场。", "festival": ""},
+    # ═══════════════ FIFA World Cup 2026 ═══════════════
+    # 6.11-7.19 正在进行，墨西哥联办，全民狂欢
+    {"title": "美加墨世界杯墨西哥国旗抱枕套沙发布艺靠垫套绿白红三色家居装饰", "cat": "世界杯装饰", "price": 19.5, "w": 0.22, "l": 25, "wi": 25, "h": 2,
+     "store": "绍兴市柯桥家纺有限公司", "yr": 4.0, "rt": 4.6, "dh": 24, "sales": 1800,
+     "url": "https://detail.1688.com/offer/533266664499.html",
+     "image_url": "https://placehold.co/400x300/006847/FFFFFF?text=墨西哥国旗抱枕",
+     "desc": "绿白红三色墨西哥国旗抱枕套45x45cm，沙发靠垫世界杯应援装饰。2026世界杯墨西哥联办全民狂欢，仅0.22kg极致轻量，TikTok世界杯话题流量爆发。", "festival": "FIFA World Cup"},
 
-    {"title": "3D立体亚克力墙贴客厅卧室沙发电视背景墙装饰贴画现代简约挂饰", "cat": "墙饰", "price": 22.0, "w": 0.25, "l": 30, "wi": 20, "h": 3,
-     "store": "温州博美工艺品有限公司", "yr": 5.0, "rt": 4.9, "dh": 24, "sales": 3200,
-     "url": "https://detail.1688.com/offer/865913642896.html",
-     "image_url": "https://loremflickr.com/400/300/wall,art,sticker",
-     "desc": "3D立体亚克力墙贴，自粘背胶免打孔，客厅电视背景墙秒变高级感。0.25kg轻量好发货，现代简约风适配墨西哥中产家庭审美。", "festival": ""},
+    {"title": "世界杯足球造型创意桌面摆件家居装饰品树脂运动员雕塑客厅展示", "cat": "世界杯装饰", "price": 18.8, "w": 0.30, "l": 12, "wi": 10, "h": 15,
+     "store": "深圳市潮玩工贸有限公司", "yr": 3.5, "rt": 4.7, "dh": 24, "sales": 3200,
+     "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E8%B6%B3%E7%90%83%E9%80%A0%E5%9E%8B%E6%A1%8C%E9%9D%A2%E6%91%86%E4%BB%B6%E5%88%9B%E6%84%8F%E5%AE%B6%E5%B1%85",
+     "image_url": "https://placehold.co/400x300/1A1A2E/FFFFFF?text=足球⚽摆件",
+     "desc": "足球运动员造型树脂桌面摆件，客厅电视柜展示品。2026世界杯期间墨西哥家庭客厅装饰刚需，球迷收藏展示属性强，0.3kg轻量好发。", "festival": "FIFA World Cup"},
 
-    {"title": "自粘北欧风墙纸客厅卧室背景墙壁贴纸防水防潮可移除ins墙贴画", "cat": "墙饰", "price": 14.5, "w": 0.20, "l": 25, "wi": 18, "h": 2,
-     "store": "广州市墙纸之家装饰材料", "yr": 3.5, "rt": 4.6, "dh": 24, "sales": 8900,
-     "url": "https://detail.1688.com/offer/941176271988.html",
-     "image_url": "https://loremflickr.com/400/300/wallpaper,decor",
-     "desc": "自粘防水墙贴纸，防潮可移除不伤墙，卧室客厅背景墙快速翻新。0.2kg极致轻量，墨西哥潮湿气候下防潮特性是核心卖点。", "festival": ""},
+    {"title": "世界杯主题背景墙贴纸客厅电视墙装饰仿砖纹3D立体足球图案自粘", "cat": "世界杯装饰", "price": 14.0, "w": 0.20, "l": 30, "wi": 20, "h": 2,
+     "store": "温州博美工艺品有限公司", "yr": 5.0, "rt": 4.8, "dh": 24, "sales": 4500,
+     "url": "https://detail.1688.com/offer/1016973546382.html",
+     "image_url": "https://placehold.co/400x300/004d40/FFFFFF?text=世界杯⚽墙贴",
+     "desc": "世界杯3D立体足球墙贴纸，自粘防水，客厅电视背景墙秒变球迷观赛房。墨西哥球迷世界杯期间客厅改造刚需，0.2kg极致轻量运费低。", "festival": "FIFA World Cup"},
 
-    {"title": "现代简约三联装饰画客厅沙发背景墙挂画北欧风格壁画卧室床头画", "cat": "墙饰", "price": 19.8, "w": 0.35, "l": 40, "wi": 30, "h": 2,
-     "store": "深圳画龙工艺品有限公司", "yr": 4.0, "rt": 4.8, "dh": 48, "sales": 2100,
-     "url": "https://detail.1688.com/offer/937013013650.html",
-     "image_url": "https://loremflickr.com/400/300/wall,art,painting",
-     "desc": "三联装饰画套装，北欧风格壁画，沙发背景墙/卧室床头画一站式搞定。薄板包装0.35kg，墨西哥家庭客厅墙面装饰高频需求品。", "festival": ""},
+    {"title": "绿白红三色拉花拉旗横幅世界杯派对装饰墨西哥国旗色居家布置", "cat": "世界杯装饰", "price": 16.0, "w": 0.18, "l": 20, "wi": 15, "h": 3,
+     "store": "义乌市派对大师工艺品厂", "yr": 4.0, "rt": 4.7, "dh": 24, "sales": 5600,
+     "url": "https://detail.1688.com/offer/914011858616.html",
+     "image_url": "https://placehold.co/400x300/006847/FFFFFF?text=拉花🇲🇽三色",
+     "desc": "绿白红墨西哥国旗色拉花拉旗横幅，世界杯观赛聚会派对必备。世界杯期间墨西哥家庭/酒吧/广场聚集看球场景通杀，0.18kg极致轻。", "festival": "FIFA World Cup"},
 
-    # ── 桌面摆件 (Table Decor) ── 墨西哥人热爱桌面装饰 ──
-    {"title": "迷你仿真多肉植物盆栽摆件假绿植桌面装饰品办公室客厅小盆景", "cat": "桌面摆件", "price": 12.5, "w": 0.15, "l": 8, "wi": 8, "h": 10,
-     "store": "义乌市绿之韵仿真植物厂", "yr": 4.5, "rt": 4.8, "dh": 24, "sales": 15600,
-     "url": "https://detail.1688.com/offer/984852471157.html",
-     "image_url": "https://loremflickr.com/400/300/succulent,plant,decor",
-     "desc": "迷你仿真多肉盆栽，免养护四季常青，树脂材质逼真度高。仅0.15kg极致轻量，墨西哥家庭热爱绿植但气候干燥，仿真品省心省运费。", "festival": ""},
+    {"title": "墨西哥国家队应援加油旗球迷助威旗车挂旗世界杯观赛装饰旗", "cat": "世界杯装饰", "price": 22.0, "w": 0.25, "l": 30, "wi": 20, "h": 2,
+     "store": "义乌市世界杯工艺品厂", "yr": 3.0, "rt": 4.6, "dh": 24, "sales": 8900,
+     "url": "https://detail.1688.com/offer/999891025739.html",
+     "image_url": "https://placehold.co/400x300/006847/FFFFFF?text=墨西哥加油旗",
+     "desc": "墨西哥国家队球迷加油旗帜套装，世界杯车挂/阳台/客厅应援装饰。墨西哥街头巷尾全民挂旗氛围浓，世界杯期间日均搜索量暴增300%。", "festival": "FIFA World Cup"},
 
-    {"title": "创意宇航员手机支架桌面摆件收纳家居装饰品潮流网红太空人摆件", "cat": "桌面摆件", "price": 15.8, "w": 0.25, "l": 10, "wi": 8, "h": 12,
-     "store": "深圳市潮玩工贸有限公司", "yr": 2.5, "rt": 4.6, "dh": 24, "sales": 7200,
-     "url": "https://detail.1688.com/offer/819665918083.html",
-     "image_url": "https://loremflickr.com/400/300/astronaut,desk,decor",
-     "desc": "宇航员造型手机支架摆件，既是桌面装饰又是实用手机支架。潮流网红款，墨西哥年轻消费者对太空主题潮玩接受度高，TikTok易推流。", "festival": ""},
+    {"title": "足球场图案地垫门垫玄关防滑垫世界杯主题入户毯可水洗家用脚垫", "cat": "世界杯装饰", "price": 20.5, "w": 0.45, "l": 40, "wi": 30, "h": 2,
+     "store": "义乌市地垫批发商行", "yr": 3.5, "rt": 4.6, "dh": 24, "sales": 2800,
+     "url": "https://detail.1688.com/offer/1000652515937.html",
+     "image_url": "https://placehold.co/400x300/2E7D32/FFFFFF?text=足球场⚽地垫",
+     "desc": "绿色足球场图案防滑地垫，世界杯主题入户玄关门垫。世界杯期间墨西哥球迷家庭入户仪式感第一站，可水洗耐用，0.45kg好发。", "festival": "FIFA World Cup"},
 
-    {"title": "黄铜小鹿摆件家居装饰品电视柜玄关创意工艺品台式摆件开业礼物", "cat": "桌面摆件", "price": 22.0, "w": 0.35, "l": 15, "wi": 8, "h": 18,
-     "store": "东阳市铜艺世家工艺品", "yr": 5.0, "rt": 4.9, "dh": 24, "sales": 3400,
-     "url": "https://detail.1688.com/offer/776664717401.html",
-     "image_url": "https://loremflickr.com/400/300/deer,brass,decor",
-     "desc": "黄铜小鹿摆件，电视柜玄关台式装饰，开业乔迁礼物首选。铜艺质感高级，墨西哥家庭玄关装饰刚需，独立日/圣诞节送礼场景适配。", "festival": ""},
+    {"title": "LED世界杯足球灯串装饰灯电池盒派对挂饰氛围彩灯世界杯应援灯", "cat": "世界杯装饰", "price": 15.5, "w": 0.15, "l": 10, "wi": 8, "h": 3,
+     "store": "中山市古镇灯饰有限公司", "yr": 7.0, "rt": 4.9, "dh": 24, "sales": 12000,
+     "url": "https://detail.1688.com/offer/652508114082.html",
+     "image_url": "https://placehold.co/400x300/1A237E/FFD700?text=LED⚽灯串",
+     "desc": "足球造型LED彩灯串电池盒供电，世界杯观赛派对阳台室内氛围装饰。仅0.15kg极致轻量免运费，墨西哥球迷夜间看球聚会场景爆款。", "festival": "FIFA World Cup"},
 
-    {"title": "骷髅头造型摆件创意家居装饰亡灵节装饰品彩色树脂头骨摆件桌面", "cat": "桌面摆件", "price": 18.5, "w": 0.28, "l": 12, "wi": 10, "h": 15,
-     "store": "义乌市派对大师工艺品厂", "yr": 3.0, "rt": 4.6, "dh": 24, "sales": 890,
-     "url": "https://detail.1688.com/offer/1042585639354.html",
-     "image_url": "https://loremflickr.com/400/300/skull,colorful,decor",
-     "desc": "彩色树脂骷髅头摆件，亡灵节专属装饰，手绘彩色头骨造型。墨西哥亡灵节（11月）核心品类，提前2个月备货利润最高，祭坛布置刚需。", "festival": "亡灵节"},
+    {"title": "创意足球造型笔筒桌面收纳盒家居摆件世界杯主题球迷纪念品礼物", "cat": "世界杯装饰", "price": 17.0, "w": 0.28, "l": 12, "wi": 12, "h": 10,
+     "store": "深圳市潮玩工贸有限公司", "yr": 3.5, "rt": 4.6, "dh": 24, "sales": 2100,
+     "url": "https://detail.1688.com/offer/636568175955.html",
+     "image_url": "https://placehold.co/400x300/212121/FFFFFF?text=足球⚽笔筒",
+     "desc": "足球造型多功能桌面收纳盒笔筒摆件，世界杯主题礼品。既是实用办公收纳又是球迷桌面展示品，世界杯期间墨西哥办公室/学生桌上摆件需求量暴增。", "festival": "FIFA World Cup"},
 
-    # ── 花瓶 (Vases) ── 墨西哥家庭必备 ──
-    {"title": "韩式ins风透明玻璃花瓶水培花瓶客厅餐桌干花花瓶装饰品摆件", "cat": "花瓶", "price": 16.9, "w": 0.40, "l": 12, "wi": 10, "h": 20,
-     "store": "义乌市晶彩玻璃制品厂", "yr": 6.0, "rt": 4.9, "dh": 24, "sales": 11000,
-     "url": "https://detail.1688.com/offer/996321876326.html",
-     "image_url": "https://loremflickr.com/400/300/vase,glass,flower",
-     "desc": "ins风透明玻璃花瓶，水培干花两用，客厅餐桌装饰摆件。高硼硅玻璃质感通透，墨西哥家庭餐桌必放花瓶，亡灵节插万寿菊也适用。", "festival": ""},
+    {"title": "美加墨世界杯马克杯纪念水杯不锈钢足球造型3D浮雕球迷礼物", "cat": "世界杯装饰", "price": 21.0, "w": 0.35, "l": 10, "wi": 8, "h": 12,
+     "store": "潮州市潮安区不锈钢厂", "yr": 5.0, "rt": 4.7, "dh": 24, "sales": 1500,
+     "url": "https://detail.1688.com/offer/1008490442813.html",
+     "image_url": "https://placehold.co/400x300/212121/FFD700?text=世界杯🏆杯",
+     "desc": "2026美加墨世界杯纪念不锈钢马克杯，足球3D浮雕设计球迷礼物。世界杯纪念品/家居两用，墨西哥球迷购买力强，纪念属性溢价空间大。", "festival": "FIFA World Cup"},
 
-    {"title": "迷你陶瓷小花瓶ins风桌面装饰干花花器创意插花瓶客厅摆件", "cat": "花瓶", "price": 13.8, "w": 0.25, "l": 8, "wi": 8, "h": 12,
-     "store": "景德镇雅瓷坊陶瓷有限公司", "yr": 5.5, "rt": 4.9, "dh": 48, "sales": 4600,
-     "url": "https://detail.1688.com/offer/940194944083.html",
-     "image_url": "https://loremflickr.com/400/300/ceramic,vase,small",
-     "desc": "迷你陶瓷小花瓶，ins风桌面干花花器，创意插花摆件。景德镇白瓷细腻温润，0.25kg轻量好发，墨西哥母亲节/情人节送礼适配。", "festival": ""},
+    {"title": "绿白红彩灯串星星灯世界杯应援灯饰墨西哥国旗色派对挂饰氛围灯", "cat": "世界杯装饰", "price": 12.8, "w": 0.12, "l": 10, "wi": 8, "h": 3,
+     "store": "中山市古镇灯饰有限公司", "yr": 7.0, "rt": 4.9, "dh": 24, "sales": 16000,
+     "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E7%BB%BF%E7%99%BD%E7%BA%A2%E5%BD%A9%E7%81%AF%E4%B8%B2%E8%8A%82%E6%97%A5%E5%B8%83%E7%BD%AE",
+     "image_url": "https://placehold.co/400x300/006847/FFFFFF?text=绿白红💡灯",
+     "desc": "绿白红三色彩灯串墨西哥国旗色，世界杯应援阳台派对挂饰灯。0.12kg超极轻免运费，世界杯期间三色灯光墨西哥各地广场/阳台标配。", "festival": "FIFA World Cup"},
 
-    # ── 收纳 (Organization) ── 高频刚需 ──
-    {"title": "桌面化妆品收纳盒亚克力透明梳妆台护肤品整理架学生书桌置物架", "cat": "收纳", "price": 17.5, "w": 0.40, "l": 22, "wi": 14, "h": 12,
+    # ═══════════════ Guelaguetza文化节 & 夏季民俗 ═══════════════
+    # 7月全月 Oaxaca，墨西哥最盛大传统文化活动
+    {"title": "跨境彩色墨西哥花卉手工刺绣挂毯墙面装饰波西米亚民宿背景布", "cat": "民俗装饰", "price": 19.8, "w": 0.25, "l": 30, "wi": 25, "h": 2,
+     "store": "绍兴市柯桥布艺有限公司", "yr": 5.0, "rt": 4.7, "dh": 24, "sales": 3400,
+     "url": "https://detail.1688.com/offer/891830011058.html",
+     "image_url": "https://placehold.co/400x300/FF6B35/FFFFFF?text=墨西哥刺绣挂毯",
+     "desc": "墨西哥花卉手工刺绣挂毯背景布，Guelaguetza节日墙面民俗装饰。墨西哥家庭七月文化节布置墙面刚需，手工刺绣质感高级溢价空间大。", "festival": "Guelaguetza文化节"},
+
+    {"title": "彩绘手工陶瓷花瓶民族风桌面摆件墨西哥风格客厅民宿家居装饰品", "cat": "民俗装饰", "price": 16.5, "w": 0.35, "l": 10, "wi": 10, "h": 18,
+     "store": "景德镇雅瓷坊陶瓷有限公司", "yr": 5.5, "rt": 4.9, "dh": 48, "sales": 2800,
+     "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E5%BD%A9%E7%BB%98%E9%99%B6%E7%93%B7%E8%8A%B1%E7%93%B6%2B%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%B0%91%E6%97%8F%E9%A3%8E",
+     "image_url": "https://placehold.co/400x300/E65100/FFFFFF?text=彩绘陶瓷花瓶",
+     "desc": "手工彩绘陶瓷花瓶，墨西哥民族风图案桌面摆件。Guelaguetza期间墨西哥家庭花卉布置核心品类，民族瓷艺适配当地审美，溢价空间可观。", "festival": "Guelaguetza文化节"},
+
+    {"title": "编织草帽墙面挂饰ins风民宿装饰品墨西哥乡村风家居吊饰摆件", "cat": "民俗装饰", "price": 15.0, "w": 0.20, "l": 25, "wi": 25, "h": 5,
+     "store": "义乌市工艺礼品商行", "yr": 3.5, "rt": 4.6, "dh": 24, "sales": 4700,
+     "url": "https://detail.1688.com/offer/977669765919.html",
+     "image_url": "https://placehold.co/400x300/D7CCC8/5D4037?text=编织草帽🪶",
+     "desc": "天然编织草帽墙面挂饰，墨西哥乡村风民宿庭院装饰品。七月Oaxaca Guelaguetza文化节草帽为核心元素，墙面吊饰0.2kg轻量好发。", "festival": "Guelaguetza文化节"},
+
+    {"title": "波西米亚风彩色手工串珠门帘隔断帘ins民宿家居装饰品隔断挂帘", "cat": "民俗装饰", "price": 22.0, "w": 0.40, "l": 35, "wi": 20, "h": 3,
+     "store": "绍兴市柯桥布艺有限公司", "yr": 4.5, "rt": 4.7, "dh": 24, "sales": 1900,
+     "url": "https://detail.1688.com/offer/955065178885.html",
+     "image_url": "https://placehold.co/400x300/FF6F00/FFFFFF?text=彩色串珠门帘",
+     "desc": "波西米亚风手工串珠门帘隔断帘，ins民宿家居装饰。墨西哥Guelaguetza节彩色串珠是传统工艺代表，民宿/庭院门帘需求旺盛，0.4kg好发。", "festival": "Guelaguetza文化节"},
+
+    {"title": "墨西哥桌布夏季彩色条纹桌布盖毯厨房餐桌装饰布艺盖巾家居方巾", "cat": "民俗装饰", "price": 18.5, "w": 0.30, "l": 28, "wi": 22, "h": 2,
+     "store": "义乌市美布家居用品厂", "yr": 3.0, "rt": 4.5, "dh": 48, "sales": 2200,
+     "url": "https://detail.1688.com/offer/778647070226.html",
+     "image_url": "https://placehold.co/400x300/FF8F00/FFFFFF?text=墨西哥桌布🌈",
+     "desc": "七彩条纹墨西哥民族风桌布，夏季家居餐桌装饰布艺。Guelaguetza期间墨西哥餐桌布置首选，七彩条纹富含传统文化色彩，节日溢价明显。", "festival": "Guelaguetza文化节"},
+
+    {"title": "手工彩色蜡烛浪漫氛围装饰蜡烛生日派对婚庆民宿摆件ins风蜡烛", "cat": "民俗装饰", "price": 14.8, "w": 0.18, "l": 10, "wi": 8, "h": 6,
+     "store": "义乌市烛愿工艺品有限公司", "yr": 3.0, "rt": 4.6, "dh": 24, "sales": 6800,
+     "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E5%BD%A9%E8%89%B2%E8%9C%A1%E7%83%9B%2B%E6%89%8B%E5%B7%A5%2B%E6%B0%9B%E5%9B%B4%E8%A3%85%E9%A5%B0",
+     "image_url": "https://placehold.co/400x300/FF5722/FFFFFF?text=手工🕯蜡烛",
+     "desc": "手工彩色蜡烛氛围装饰，民宿摆件ins风蜡烛灯。墨西哥Guelaguetza民俗节蜡烛仪式/桌面装饰刚需，多种颜色适配夏季文化场景。", "festival": "Guelaguetza文化节"},
+
+    # ═══════════════ Back to School 开学季 ═══════════════
+    # 8月下旬，墨西哥大学/中学开学，宿舍装饰刚需
+    {"title": "亚克力透明化妆品收纳盒桌面整理盒学生宿舍梳妆台护肤品置物架", "cat": "收纳", "price": 17.5, "w": 0.40, "l": 22, "wi": 14, "h": 12,
      "store": "广州亚之克塑料制品", "yr": 3.0, "rt": 4.7, "dh": 24, "sales": 9800,
-     "url": "https://detail.1688.com/offer/965459529466.html",
-     "image_url": "https://loremflickr.com/400/300/organizer,makeup,storage",
-     "desc": "亚克力透明化妆品收纳盒，分层置物架设计，梳妆台整理神器。墨西哥女性消费者梳妆台收纳高频需求，透明材质视觉清爽易展示。", "festival": ""},
+     "url": "https://detail.1688.com/offer/992280966554.html",
+     "image_url": "https://placehold.co/400x300/E0E0E0/424242?text=亚克力收纳盒",
+     "desc": "亚克力透明桌面化妆品收纳盒，学生宿舍梳妆台整理神器。墨西哥高校8月下旬开学，女生宿舍桌面收纳为开学季爆款品类。", "festival": "Back to School"},
 
-    {"title": "门后挂钩收纳架挂衣架免打孔卧室衣柜收纳神器挂包帽子围巾架", "cat": "收纳", "price": 12.0, "w": 0.20, "l": 30, "wi": 12, "h": 5,
-     "store": "台州市黄岩宏盛塑料厂", "yr": 4.5, "rt": 4.8, "dh": 24, "sales": 13500,
-     "url": "https://detail.1688.com/offer/1049540781276.html",
-     "image_url": "https://loremflickr.com/400/300/organizer,hook,storage",
-     "desc": "门后免打孔挂钩收纳架，挂衣挂包帽子围巾，卧室衣柜神器。0.2kg极轻，免安装设计适合墨西哥租客市场，男女通吃高频刚需品。", "festival": ""},
+    {"title": "多功能旋转笔筒桌面收纳盒创意文具整理架学生宿舍学习用品置物", "cat": "收纳", "price": 15.0, "w": 0.35, "l": 15, "wi": 12, "h": 10,
+     "store": "台州市黄岩宏盛塑料厂", "yr": 4.5, "rt": 4.8, "dh": 24, "sales": 12500,
+     "url": "https://detail.1688.com/offer/840333658698.html",
+     "image_url": "https://placehold.co/400x300/42A5F5/FFFFFF?text=旋转笔筒✏",
+     "desc": "多功能旋转笔筒桌面收纳盒，学生宿舍文具整理架。墨西哥开学季笔筒+收纳复合需求旺盛，实用主义产品转化率极高。", "festival": "Back to School"},
 
-    {"title": "数据线收纳魔术贴绑带理线器桌面耳机绕线器电脑扎带集线神器", "cat": "收纳", "price": 12.5, "w": 0.10, "l": 8, "wi": 6, "h": 3,
-     "store": "深圳市品胜电子科技", "yr": 3.0, "rt": 4.5, "dh": 24, "sales": 23000,
-     "url": "https://detail.1688.com/offer/951072454536.html",
-     "image_url": "https://loremflickr.com/400/300/cable,organizer,desk",
-     "desc": "魔术贴数据线收纳绑带，理线器+绕线器+扎带组合装。仅0.1kg极致轻量运费极低，桌面整理高频需求，墨西哥办公/学生场景通杀。", "festival": ""},
-
-    {"title": "免打孔浴室置物架卫生间吸壁式收纳架洗发水沐浴露挂墙三角架", "cat": "收纳", "price": 15.0, "w": 0.35, "l": 22, "wi": 15, "h": 8,
+    {"title": "免打孔墙面置物架宿舍收纳神器挂墙隔板学生寝室床头手机支架架", "cat": "收纳", "price": 13.5, "w": 0.25, "l": 30, "wi": 12, "h": 5,
      "store": "台州市黄岩宏盛塑料厂", "yr": 4.5, "rt": 4.7, "dh": 24, "sales": 7800,
-     "url": "https://detail.1688.com/offer/840976174981.html",
-     "image_url": "https://loremflickr.com/400/300/bathroom,shelf,organizer",
-     "desc": "免打孔吸壁式浴室置物架，三角设计不占空间，洗发水沐浴露挂墙收纳。墨西哥家庭卫生间普遍较小，免安装收纳方案转化率高。", "festival": ""},
+     "url": "https://detail.1688.com/offer/982030237014.html",
+     "image_url": "https://placehold.co/400x300/66BB6A/FFFFFF?text=墙面置物架",
+     "desc": "免打孔挂墙置物架隔板，学生宿舍床头手机/杂物收纳。墨西哥学生宿舍多为租屋，免安装方案解决租房打孔痛点。", "festival": "Back to School"},
 
-    # ── 灯饰 (Lighting) ── 墨西哥人热爱氛围灯 ──
-    {"title": "LED铜线灯串电池盒星星灯卧室床头浪漫布置婚庆派对装饰挂饰灯", "cat": "灯饰", "price": 12.8, "w": 0.12, "l": 10, "wi": 8, "h": 3,
-     "store": "中山市古镇灯饰有限公司", "yr": 7.0, "rt": 4.9, "dh": 24, "sales": 28000,
-     "url": "https://detail.1688.com/offer/973530671377.html",
-     "image_url": "https://loremflickr.com/400/300/led,lights,string",
-     "desc": "LED铜线灯串星星灯，电池盒供电免插电，卧室派对浪漫布置。0.12kg极致轻量，墨西哥亡灵节/圣诞季/派对三大场景通杀，销量28000+爆款验证。", "festival": "圣诞季/亡灵节"},
+    {"title": "门后挂钩收纳架挂衣架免打孔宿舍卧室衣柜收纳神器挂包帽子围巾", "cat": "收纳", "price": 12.0, "w": 0.20, "l": 30, "wi": 12, "h": 5,
+     "store": "台州市黄岩宏盛塑料厂", "yr": 4.5, "rt": 4.8, "dh": 24, "sales": 13500,
+     "url": "https://detail.1688.com/offer/976493700718.html",
+     "image_url": "https://placehold.co/400x300/AB47BC/FFFFFF?text=门后挂钩",
+     "desc": "门后免打孔挂钩收纳架，学生宿舍挂衣挂包帽子围巾神器。墨西哥学生宿舍空间小，门后空间利用为开学季TOP爆款。", "festival": "Back to School"},
 
-    {"title": "小夜灯床头睡眠灯卧室婴儿喂奶灯创意氛围台灯可充电礼物灯", "cat": "灯饰", "price": 18.5, "w": 0.22, "l": 10, "wi": 8, "h": 8,
+    {"title": "LED床头小夜灯可充电卧室氛围灯婴儿喂奶灯创意礼物学生宿舍灯", "cat": "收纳", "price": 18.5, "w": 0.22, "l": 10, "wi": 8, "h": 8,
      "store": "深圳市睿光新能源科技", "yr": 4.0, "rt": 4.7, "dh": 24, "sales": 5200,
-     "url": "https://detail.1688.com/offer/994383702218.html",
-     "image_url": "https://loremflickr.com/400/300/night,light,bedroom",
-     "desc": "可充电小夜灯，床头睡眠灯+婴儿喂奶灯+创意氛围台灯三合一。墨西哥新生儿家庭需求旺盛，USB充电方式适配当地电压标准。", "festival": ""},
+     "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=LED%E5%BA%8A%E5%A4%B4%E5%B0%8F%E5%A4%9C%E7%81%AF%2B%E5%8F%AF%E5%85%85%E7%94%B5%2B%E6%B0%9B%E5%9B%B4%E7%81%AF",
+     "image_url": "https://placehold.co/400x300/FFD54F/37474F?text=小夜灯💡",
+     "desc": "可充电LED床头小夜灯氛围灯，学生宿舍照明神器。墨西哥8月底高校宿舍开学，每间宿舍=一件小夜灯的确定性需求。", "festival": "Back to School"},
 
-    {"title": "日落氛围投影灯ins风网红拍照背景灯卧室床头浪漫日落彩虹灯", "cat": "灯饰", "price": 21.0, "w": 0.35, "l": 15, "wi": 10, "h": 10,
-     "store": "东莞市光之翼电子科技", "yr": 3.5, "rt": 4.6, "dh": 24, "sales": 8900,
-     "url": "https://detail.1688.com/offer/895958893342.html",
-     "image_url": "https://loremflickr.com/400/300/sunset,lamp,projector",
-     "desc": "日落投影灯，ins风网红拍照背景灯，卧室浪漫氛围神器。TikTok墨西哥站爆款同款，年轻人拍照打卡刚需，利润空间大适合冷启动。", "festival": ""},
+    {"title": "简约桌上书架桌面置物架办公书桌整理架学生宿舍学习阅读收纳架", "cat": "收纳", "price": 21.0, "w": 0.50, "l": 35, "wi": 20, "h": 5,
+     "store": "义乌市家居用品商行", "yr": 4.0, "rt": 4.8, "dh": 24, "sales": 6100,
+     "url": "https://detail.1688.com/offer/991691085955.html",
+     "image_url": "https://placehold.co/400x300/78909C/FFFFFF?text=桌上书架📚",
+     "desc": "简约桌上书架桌面整理架，学生宿舍学习阅读收纳架。墨西哥高校开学季教材/笔记本收纳刚需，桌面空间扩容神器。", "festival": "Back to School"},
 
-    # ── 桌布 (Tablecloths) ── 节日+日常高需 ──
-    {"title": "PVC防水防油免洗桌布茶几垫家用长方形ins风格餐桌垫北欧台布", "cat": "桌布", "price": 18.0, "w": 0.50, "l": 30, "wi": 22, "h": 2,
-     "store": "绍兴柯桥布艺有限公司", "yr": 5.0, "rt": 4.8, "dh": 24, "sales": 12300,
-     "url": "https://detail.1688.com/offer/963209882592.html",
-     "image_url": "https://loremflickr.com/400/300/tablecloth,pvc,table",
-     "desc": "PVC防水防油免洗桌布，一擦即净不用洗，ins风北欧图案。墨西哥家庭聚餐文化浓厚，防水免洗特性直击当地懒人经济痛点。", "festival": ""},
+    {"title": "数据线收纳盒桌面理线器多头USB充电线整理盒学生宿舍办公桌面", "cat": "收纳", "price": 14.0, "w": 0.15, "l": 15, "wi": 10, "h": 5,
+     "store": "深圳市品胜电子科技", "yr": 3.0, "rt": 4.6, "dh": 24, "sales": 18000,
+     "url": "https://detail.1688.com/offer/957732389272.html",
+     "image_url": "https://placehold.co/400x300/26A69A/FFFFFF?text=数据线收纳",
+     "desc": "桌面数据线收纳盒理线器，学生宿舍办公桌面线材整理。仅0.15kg极致轻量，墨西哥学生人人有多设备线材，开学季整理需求暴增。", "festival": "Back to School"},
 
-    {"title": "亡灵节万寿菊骷髅头印花桌布墨西哥节日派对装饰家居台布方巾", "cat": "桌布", "price": 22.5, "w": 0.45, "l": 28, "wi": 20, "h": 2,
-     "store": "义乌市美布家居用品厂", "yr": 2.5, "rt": 4.5, "dh": 48, "sales": 1200,
-     "url": "https://detail.1688.com/offer/934038199805.html",
-     "image_url": "https://loremflickr.com/400/300/day,dead,tablecloth",
-     "desc": "亡灵节专属印花桌布，万寿菊+骷髅头图案，墨西哥节日派对装饰。亡灵节祭坛布置核心品类，提前2个月备货，当地节日100%刚需品。", "festival": "亡灵节"},
+    # ═══════════════ 独立日准备 ═══════════════
+    # 墨西哥独立日 9月16日，提前1-2月备货
+    {"title": "墨西哥独立日横幅旗帜Viva Mexico装饰旗国庆日派对挂饰背景布", "cat": "独立日装饰", "price": 22.5, "w": 0.28, "l": 35, "wi": 20, "h": 2,
+     "store": "义乌市世界杯工艺品厂", "yr": 4.0, "rt": 4.6, "dh": 24, "sales": 3600,
+     "url": "https://detail.1688.com/offer/961529373935.html",
+     "image_url": "https://placehold.co/400x300/006847/FFFFFF?text=VivaMexico🇲🇽",
+     "desc": "Viva Mexico独立日横幅背景布旗帜，919独立日派对核心装饰品。墨西哥全年最重要的爱国节日，独立日前1个月家庭/商铺采购高峰。", "festival": "墨西哥独立日"},
 
-    # ── 蜡烛烛台 (Candles & Holders) ── 墨西哥宗教+节日核心品类 ──
-    {"title": "复古铁艺烛台摆件创意家居装饰客厅餐桌婚礼布置ins风装饰品", "cat": "蜡烛", "price": 16.5, "w": 0.30, "l": 10, "wi": 10, "h": 12,
-     "store": "义乌市铁艺世家工艺品", "yr": 4.5, "rt": 4.8, "dh": 24, "sales": 4500,
-     "url": "https://detail.1688.com/offer/994059937789.html",
-     "image_url": "https://loremflickr.com/400/300/candle,holder,iron",
-     "desc": "复古铁艺烛台摆件，客厅餐桌婚礼布置装饰品。墨西哥天主教家庭蜡烛/烛台是宗教仪式刚需，亡灵节祭坛+圣周+日常三场景通用。", "festival": "亡灵节/圣周"},
-
-    {"title": "LED仿真电子蜡烛灯远程遥控无焰宗教教堂祷告装饰氛围灯摆件", "cat": "蜡烛", "price": 14.5, "w": 0.18, "l": 10, "wi": 5, "h": 5,
-     "store": "广州光之源电子科技", "yr": 4.0, "rt": 4.7, "dh": 24, "sales": 6200,
-     "url": "https://detail.1688.com/offer/975322627770.html",
-     "image_url": "https://loremflickr.com/400/300/led,candle,flameless",
-     "desc": "LED电子蜡烛灯，遥控开关无明火，宗教教堂祷告安全替代方案。墨西哥80%天主教人口，亡灵节/圣周祭坛需求巨大，无明火更安全。", "festival": "圣周/亡灵节"},
-
-    # ── 相框 (Photo Frames) ── 墨西哥家庭文化核心 ──
-    {"title": "实木照片相框摆台6寸7寸8寸创意挂墙画框组合ins风桌面摆件", "cat": "相框", "price": 15.0, "w": 0.25, "l": 20, "wi": 15, "h": 2,
-     "store": "义乌市画框批发商行", "yr": 6.0, "rt": 4.8, "dh": 24, "sales": 8700,
-     "url": "https://detail.1688.com/offer/992763702177.html",
-     "image_url": "https://loremflickr.com/400/300/photo,frame,wood",
-     "desc": "实木相框摆台，6/7/8寸多规格，可挂墙可桌面，ins风组合套装。墨西哥家庭照片墙文化浓厚，母亲节/情人节/亡灵节祭坛照片三场景驱动。", "festival": ""},
-
-    # ── 派对用品 (Party Supplies) ── 节日驱动爆品 ──
-    {"title": "万圣节装饰套装南瓜蝙蝠蜘蛛网拉旗墙贴挂饰派对布置节日装饰", "cat": "派对用品", "price": 20.8, "w": 0.30, "l": 25, "wi": 20, "h": 5,
-     "store": "义乌市派对大师工艺品厂", "yr": 4.0, "rt": 4.7, "dh": 24, "sales": 4300,
-     "url": "https://detail.1688.com/offer/641721907965.html",
-     "image_url": "https://loremflickr.com/400/300/halloween,party,decoration",
-     "desc": "万圣节装饰套装，南瓜蝙蝠蜘蛛网拉旗墙贴一站配齐。墨西哥万圣节（10/31）+亡灵节（11/2）连庆，派对装饰套装利润高、备货期提前2个月。", "festival": "万圣节"},
-
-    {"title": "圣诞节装饰品套装圣诞树挂饰球雪花彩带拉旗节日布置家庭派对", "cat": "派对用品", "price": 23.5, "w": 0.45, "l": 20, "wi": 18, "h": 10,
-     "store": "义乌市圣诞礼品有限公司", "yr": 5.0, "rt": 4.8, "dh": 24, "sales": 5600,
-     "url": "https://detail.1688.com/offer/972124420158.html",
-     "image_url": "https://loremflickr.com/400/300/christmas,ornament,ball",
-     "desc": "圣诞节装饰套装，挂饰球+雪花+彩带+拉旗组合装。墨西哥圣诞季（12月）是全年最大消费节点，家庭派对布置套装销量验证5600+，提前2个月备货。", "festival": "圣诞季"},
-
-    {"title": "彩色气球拱门支架婚庆生日派对布置装饰套装宝宝宴成人礼布置", "cat": "派对用品", "price": 19.0, "w": 0.50, "l": 30, "wi": 20, "h": 5,
+    {"title": "红白绿气球拱门支架套装婚庆生日派对布置装饰墨西哥独立日配色", "cat": "独立日装饰", "price": 19.0, "w": 0.50, "l": 30, "wi": 20, "h": 5,
      "store": "义乌市派对大师工艺品厂", "yr": 4.0, "rt": 4.6, "dh": 24, "sales": 3800,
-     "url": "https://detail.1688.com/offer/610066844876.html",
-     "image_url": "https://loremflickr.com/400/300/balloon,arch,party",
-     "desc": "彩色气球拱门支架套装，婚庆生日派对宝宝宴布置。墨西哥家庭聚会文化浓厚，周末派对频率高，气球装饰套装是全年通用派对刚需品。", "festival": ""},
+     "url": "https://detail.1688.com/offer/718545347973.html",
+     "image_url": "https://placehold.co/400x300/006847/FFFFFF?text=独立日🎈拱门",
+     "desc": "红白绿三色气球拱门支架套装，适配墨西哥独立日派对配色。独立日前夕墨西哥家庭/餐厅/商铺门口气球拱门标配，全套零售价空间大。", "festival": "墨西哥独立日"},
 
-    # ── 户外装饰 (Outdoor Decor) ── 墨西哥庭院文化 ──
-    {"title": "��真藤条假叶子绿萝吊兰壁挂植物装饰客厅阳台花园室内外布置", "cat": "户外装饰", "price": 16.0, "w": 0.30, "l": 25, "wi": 18, "h": 5,
-     "store": "义乌市绿之韵仿真植物厂", "yr": 4.5, "rt": 4.7, "dh": 24, "sales": 9700,
-     "url": "https://detail.1688.com/offer/895540557226.html",
-     "image_url": "https://loremflickr.com/400/300/ivy,plant,fake",
-     "desc": "仿真藤条绿萝吊兰壁挂植物，室内外阳台花园装饰。墨西哥庭院文化浓厚但气候干燥，仿真植物免养护省心，阳台/客厅/花园三场景通用。", "festival": ""},
+    {"title": "墨西哥独立日主题桌布餐桌装饰国庆派对台布绿白红三色节日布艺", "cat": "独立日装饰", "price": 20.0, "w": 0.35, "l": 28, "wi": 20, "h": 2,
+     "store": "绍兴柯桥布艺有限公司", "yr": 5.0, "rt": 4.8, "dh": 24, "sales": 2400,
+     "url": "https://detail.1688.com/offer/810150018336.html",
+     "image_url": "https://placehold.co/400x300/006847/FFFFFF?text=独立日桌布",
+     "desc": "墨西哥独立日主题桌布绿白红三色餐桌装饰布艺。独立日家庭聚餐/派对场合桌布为刚需，三色国旗元素转化率高。", "festival": "墨西哥独立日"},
 
-    {"title": "彩色风铃挂饰阳台庭院花园装饰风铃户外门廊生日乔迁礼物挂件", "cat": "户外装饰", "price": 14.8, "w": 0.22, "l": 20, "wi": 8, "h": 8,
-     "store": "义乌市工艺礼品商行", "yr": 3.5, "rt": 4.6, "dh": 24, "sales": 4100,
-     "url": "https://detail.1688.com/offer/762820472931.html",
-     "image_url": "https://loremflickr.com/400/300/wind,chime,garden",
-     "desc": "彩色金属风铃挂饰，阳台庭院花园门廊装饰。墨西哥家庭门廊/庭院挂风铃是当地传统，乔迁礼物场景需求稳定，0.22kg轻量好发货。", "festival": ""},
+    {"title": "绿白红丝带彩带拉花挂饰派对装饰墨西哥独立日节日氛围布置用品", "cat": "独立日装饰", "price": 13.0, "w": 0.12, "l": 20, "wi": 15, "h": 2,
+     "store": "义乌市派对大师工艺品厂", "yr": 4.0, "rt": 4.5, "dh": 24, "sales": 8200,
+     "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E7%BB%BF%E7%99%BD%E7%BA%A2%2B%E4%B8%9D%E5%B8%A6%2B%E5%BD%A9%E5%B8%A6%2B%E6%B4%BE%E5%AF%B9%E6%8C%82%E9%A5%B0",
+     "image_url": "https://placehold.co/400x300/006847/FFFFFF?text=独立日🎀丝带",
+     "desc": "绿白红三色丝带彩带派对挂饰，墨西哥独立日氛围布置用品。0.12kg极轻免运费，独立日期间全民自发装饰街道/车辆/阳台。", "festival": "墨西哥独立日"},
 
-    # ── 面具 (Masks) ── 亡灵节/万圣节刚需 ──
-    {"title": "亡灵节彩色骷髅面具手绘装饰面罩墨西哥节日cos化妆舞会成人", "cat": "面具", "price": 17.5, "w": 0.18, "l": 20, "wi": 15, "h": 8,
-     "store": "义乌市派对面具厂", "yr": 3.0, "rt": 4.6, "dh": 48, "sales": 2100,
-     "url": "https://detail.1688.com/offer/939609040159.html",
-     "image_url": "https://loremflickr.com/400/300/mask,skull,colorful",
-     "desc": "亡灵节彩色骷髅面具，手绘装饰面罩，墨西哥节日cos化妆舞会专用。亡灵节核心道具品，当地人必买，提前2个月备货利润最高。", "festival": "亡灵节"},
+    {"title": "墨西哥独立日主题墙贴国庆节装饰贴纸家庭派对店铺橱窗布置贴画", "cat": "独立日装饰", "price": 16.0, "w": 0.15, "l": 25, "wi": 18, "h": 2,
+     "store": "温州博美工艺品有限公司", "yr": 5.0, "rt": 4.7, "dh": 24, "sales": 3100,
+     "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E5%A2%A8%E8%A5%BF%E5%93%A5%2B%E7%8B%AC%E7%AB%8B%E6%97%A5%2B%E4%B8%BB%E9%A2%98%E5%A2%99%E8%B4%B4%2B%E8%A3%85%E9%A5%B0",
+     "image_url": "https://placehold.co/400x300/006847/FFFFFF?text=独立日墙面贴",
+     "desc": "墨西哥独立日主题墙贴国庆装饰贴纸，家庭/店铺橱窗布置。独立日前夕墨西哥店铺/餐厅/家庭墙面装饰必备，0.15kg极轻好发。", "festival": "墨西哥独立日"},
 
-    # ── 抱枕套 (Cushion Covers) ── 家居快消品 ──
-    {"title": "ins风北欧几何图案抱枕套45x45沙发客厅卧室飘窗靠垫套不含芯", "cat": "装饰", "price": 18.0, "w": 0.20, "l": 25, "wi": 25, "h": 2,
-     "store": "绍兴市柯桥家纺有限公司", "yr": 5.0, "rt": 4.7, "dh": 24, "sales": 6400,
-     "url": "https://detail.1688.com/offer/803966300618.html",
-     "image_url": "https://loremflickr.com/400/300/cushion,cover,nordic",
-     "desc": "北欧几何图案抱枕套45x45cm，ins风沙发客厅卧室靠垫套。仅套不含芯0.2kg极致轻量，墨西哥家庭沙发/飘窗装饰高频快消品，换季更换需求稳定。", "festival": ""},
+    {"title": "墨西哥派对彩色纸花球纸扇流苏装饰独立日国庆日节日氛围布置", "cat": "独立日装饰", "price": 15.5, "w": 0.20, "l": 15, "wi": 15, "h": 5,
+     "store": "义乌市派对大师工艺品厂", "yr": 4.0, "rt": 4.6, "dh": 24, "sales": 5400,
+     "url": "https://detail.1688.com/offer/610486155314.html",
+     "image_url": "https://placehold.co/400x300/006847/FFFFFF?text=独立日🌺纸花",
+     "desc": "墨西哥彩色纸花球纸扇流苏拉花装饰套装，独立日国庆氛围布置。独立日前夕墨西哥广场/家庭/学校装饰用量巨大，套装组合利润更高。", "festival": "墨西哥独立日"},
 
-    {"title": "墨西哥国旗绿白红三色抱枕套家居靠垫套节日装饰沙发靠背套", "cat": "装饰", "price": 19.5, "w": 0.22, "l": 25, "wi": 25, "h": 2,
+    {"title": "墨西哥风格手工陶瓷马克杯民俗纪念品独立日礼物创意复古咖啡杯", "cat": "独立日装饰", "price": 19.0, "w": 0.30, "l": 10, "wi": 8, "h": 10,
      "store": "义乌市世界杯工艺品厂", "yr": 4.0, "rt": 4.6, "dh": 24, "sales": 1800,
-     "url": "https://detail.1688.com/offer/694078594567.html",
-     "image_url": "https://loremflickr.com/400/300/cushion,mexico,flag",
-     "desc": "墨西哥国旗绿白红三色抱枕套，独立日/世界杯/国家队比赛节日装饰。2026世界杯墨西哥联办，足球主题家居装饰将爆发，提前3个月备货。", "festival": "独立日/世界杯"},
-
-    # ── 地垫门垫 (Doormats) ── 入户刚需 ──
-    {"title": "硅藻泥吸水垫卫生间吸水脚垫速干防滑浴室门口地垫家用软垫", "cat": "收纳", "price": 20.0, "w": 0.50, "l": 30, "wi": 20, "h": 3,
-     "store": "广州环保家居用品厂", "yr": 3.0, "rt": 4.6, "dh": 24, "sales": 5400,
-     "url": "https://detail.1688.com/offer/896847502145.html",
-     "image_url": "https://loremflickr.com/400/300/mat,bathroom,absorbent",
-     "desc": "硅藻泥吸水地垫，卫生间浴室门口速干防滑。墨西哥气候潮湿，吸水速干地垫是卫生间刚需品，硅藻泥材质在当地市场有新鲜感溢价空间。", "festival": ""},
+     "url": "https://detail.1688.com/offer/862483766295.html",
+     "image_url": "https://placehold.co/400x300/D84315/FFFFFF?text=独立日☕杯",
+     "desc": "墨西哥风格手工陶瓷马克杯民俗纪念品，独立日礼物创意咖啡杯。墨西哥独立日礼品/纪念品市场巨大，民俗陶杯兼具实用与收藏属性。", "festival": "墨西哥独立日"},
 ]
+
 
 # === 模拟竞品价格（MXN） ===
 COMPETITOR_SIM = {
+    # 世界杯期间竞品对标
+    "世界杯装饰": [(250, 15), (280, 8)],
+    "民俗装饰": [(180, 8), (200, 4)],
+    "收纳": [(140, 15), (155, 8)],
+    "独立日装饰": [(220, 12), (240, 6)],
+    # 旧品类（保留兼容）
     "墙饰": [(150, 10), (170, 5)],
     "桌面摆件": [(190, 8), (200, 3)],
     "花瓶": [(160, 12), (175, 6)],
-    "收纳": [(140, 15), (155, 8)],
     "灯饰": [(130, 20), (145, 10)],
     "桌布": [(120, 8), (135, 4)],
     "蜡烛": [(170, 6), (185, 3)],
