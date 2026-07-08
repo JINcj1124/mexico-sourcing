@@ -28,7 +28,7 @@ jobs:
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
         run: python scripts/daily_report.py
 
-      - name: 提交日报文件到仓库
+      - name: 提交日报数据到仓库
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -39,3 +39,11 @@ jobs:
             git commit -m "chore: daily report $(date +%Y-%m-%d)"
             git push
           fi
+
+      - name: 部署到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output/daily
+          publish_branch: gh-pages
+          force_orphan: true
