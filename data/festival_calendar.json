@@ -1,0 +1,136 @@
+{
+  "festivals": [
+    {
+      "id": "dia_de_muertos",
+      "name_zh": "亡灵节",
+      "name_es": "Día de Muertos",
+      "date": "2025-11-02",
+      "duration_days": 3,
+      "lead_months": 2,
+      "weight": 2.0,
+      "categories": ["装饰", "蜡烛", "桌布", "墙饰", "面具", "派对用品"],
+      "keywords_zh": ["骷髅装饰", "万寿菊花环", "亡灵节桌布", "骷髅面具", "祭坛装饰", "亡灵节蜡烛", "彩色头骨", "亡灵节挂饰"],
+      "keywords_es": ["calavera decorativa", "cempasuchil", "decoracion dia muertos", "altar muertos", "velas decorativas", "calavera colorida"]
+    },
+    {
+      "id": "halloween",
+      "name_zh": "万圣节",
+      "name_es": "Halloween",
+      "date": "2025-10-31",
+      "duration_days": 3,
+      "lead_months": 2,
+      "weight": 1.5,
+      "categories": ["装饰", "灯饰", "桌布", "墙饰", "派对用品", "户外装饰"],
+      "keywords_zh": ["万圣节装饰", "南瓜灯", "蜘蛛网装饰", "万圣节灯串", "鬼魂挂饰", "万圣节桌布", "蝙蝠装饰", "女巫装饰"],
+      "keywords_es": ["decoracion halloween", "calabaza decorativa", "telarana decorativa", "luces halloween", "fantasma decorativo", "murcielago decorativo"]
+    },
+    {
+      "id": "navidad",
+      "name_zh": "圣诞节",
+      "name_es": "Navidad",
+      "date": "2025-12-25",
+      "duration_days": 14,
+      "lead_months": 2,
+      "weight": 2.5,
+      "categories": ["装饰", "灯饰", "桌布", "墙饰", "圣诞树装饰", "户外装饰", "蜡烛", "收纳"],
+      "keywords_zh": ["圣诞装饰球", "圣诞树装饰", "圣诞灯串", "雪花装饰", "圣诞袜", "圣诞花环", "圣诞桌布", "圣诞老人摆件", "鹿角装饰", "圣诞彩带"],
+      "keywords_es": ["decoracion navidad", "esfera navidad", "arbol navidad decoracion", "luces navidad", "corona navidad", "calcetines navidad", "muneco nieve decorativo"]
+    },
+    {
+      "id": "dia_independencia",
+      "name_zh": "墨西哥独立日",
+      "name_es": "Día de la Independencia",
+      "date": "2025-09-16",
+      "duration_days": 7,
+      "lead_months": 2,
+      "weight": 1.8,
+      "categories": ["装饰", "派对用品", "户外装饰", "墙饰", "桌布"],
+      "keywords_zh": ["墨西哥国旗", "绿白红装饰", "独立日挂饰", "墨西哥彩带", "国旗桌布", "派对彩旗", "节日横幅"],
+      "keywords_es": ["bandera mexico", "decoracion verde blanco rojo", "decoracion fiesta patria", "guirnalda mexicana", "banderines fiesta"]
+    },
+    {
+      "id": "dia_reyes",
+      "name_zh": "三王节",
+      "name_es": "Día de los Reyes Magos",
+      "date": "2026-01-06",
+      "duration_days": 3,
+      "lead_months": 1.5,
+      "weight": 1.3,
+      "categories": ["装饰", "派对用品", "桌布", "收纳"],
+      "keywords_zh": ["三王节装饰", "皇冠装饰", "节日桌布", "礼物包装", "星形装饰", "骆驼摆件"],
+      "keywords_es": ["decoracion reyes magos", "corona decorativa", "estrella decorativa", "decoracion enero"]
+    },
+    {
+      "id": "dia_amor",
+      "name_zh": "情人节",
+      "name_es": "Día del Amor y la Amistad",
+      "date": "2026-02-14",
+      "duration_days": 3,
+      "lead_months": 1.5,
+      "weight": 1.2,
+      "categories": ["装饰", "蜡烛", "墙饰", "相框", "灯饰"],
+      "keywords_zh": ["爱心装饰", "情人节灯串", "心形相框", "浪漫蜡烛", "爱情墙贴", "心形挂饰"],
+      "keywords_es": ["decoracion amor", "corazon decorativo", "luces romanticas", "velas decorativas", "marco fotos corazon"]
+    },
+    {
+      "id": "semana_santa",
+      "name_zh": "圣周",
+      "name_es": "Semana Santa",
+      "date": "2026-04-05",
+      "duration_days": 7,
+      "lead_months": 2,
+      "weight": 1.0,
+      "categories": ["装饰", "蜡烛", "墙饰", "桌布", "户外装饰"],
+      "keywords_zh": ["圣周装饰", "宗教蜡烛", "十字架装饰", "复活节装饰", "宗教墙饰", "圣周桌布"],
+      "keywords_es": ["decoracion semana santa", "velas religiosas", "cruz decorativa", "decoracion pascua", "mantel religioso"]
+    },
+    {
+      "id": "dia_madre",
+      "name_zh": "母亲节",
+      "name_es": "Día de las Madres",
+      "date": "2026-05-10",
+      "duration_days": 3,
+      "lead_months": 1,
+      "weight": 1.4,
+      "categories": ["装饰", "相框", "花瓶", "蜡烛", "收纳", "墙饰"],
+      "keywords_zh": ["母亲节礼物装饰", "照片相框", "花瓶摆件", "香薰蜡烛", "家居收纳", "墙贴祝福语"],
+      "keywords_es": ["decoracion dia madre", "marco fotos regalo", "florero decorativo", "vela aromatica", "decoracion hogar regalo"]
+    },
+    {
+      "id": "world_cup_2026",
+      "name_zh": "2026世界杯（墨西哥联办）",
+      "name_es": "Copa Mundial 2026",
+      "date": "2026-06-11",
+      "duration_days": 30,
+      "lead_months": 3,
+      "weight": 3.0,
+      "categories": ["装饰", "派对用品", "户外装饰", "墙饰", "收纳", "桌布"],
+      "keywords_zh": ["墨西哥国旗装饰", "足球派对装饰", "绿白红彩带", "世界杯挂旗", "足球墙贴", "国旗桌布", "球迷应援装饰", "足球主题灯饰"],
+      "keywords_es": ["decoracion mundial", "bandera mexico grande", "decoracion futbol", "banderines futbol", "guirnalda mundial", "decoracion fiesta futbol"]
+    },
+    {
+      "id": "back_to_school",
+      "name_zh": "返校季",
+      "name_es": "Regreso a Clases",
+      "date": "2025-08-25",
+      "duration_days": 14,
+      "lead_months": 1.5,
+      "weight": 1.0,
+      "categories": ["收纳", "桌面摆件", "墙饰"],
+      "keywords_zh": ["书桌收纳", "文具收纳", "桌面整理架", "学生墙贴", "学习桌垫"],
+      "keywords_es": ["organizador escritorio", "accesorios estudio", "decoracion cuarto estudio"]
+    },
+    {
+      "id": "buen_fin",
+      "name_zh": "墨西哥黑五 (Buen Fin)",
+      "name_es": "El Buen Fin",
+      "date": "2025-11-14",
+      "duration_days": 4,
+      "lead_months": 1.5,
+      "weight": 1.6,
+      "categories": ["装饰", "灯饰", "收纳", "桌面摆件", "厨房用品"],
+      "keywords_zh": ["家居装饰套装", "LED灯串", "厨房收纳", "墙面装饰组合", "节日礼品装饰"],
+      "keywords_es": ["set decoracion hogar", "luces led decorativas", "organizador cocina", "decoracion pared set"]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "base_keywords": [
+    {"zh": "家居装饰", "es": "decoracion hogar", "category": "装饰"},
+    {"zh": "墙面装饰", "es": "decoracion pared", "category": "墙饰"},
+    {"zh": "桌面摆件", "es": "adorno mesa", "category": "桌面摆件"},
+    {"zh": "收纳用品", "es": "organizador hogar", "category": "收纳"},
+    {"zh": "厨房用品", "es": "utensilios cocina", "category": "厨房用品"},
+    {"zh": "浴室用品", "es": "accesorios bano", "category": "收纳"},
+    {"zh": "地毯地垫", "es": "tapete decorativo", "category": "装饰"},
+    {"zh": "窗帘窗纱", "es": "cortina decorativa", "category": "装饰"},
+    {"zh": "抱枕靠垫", "es": "cojin decorativo", "category": "装饰"},
+    {"zh": "花瓶花器", "es": "florero decorativo", "category": "花瓶"},
+    {"zh": "烛台蜡烛", "es": "vela decorativa portavelas", "category": "蜡烛"},
+    {"zh": "相框画框", "es": "marco fotos", "category": "相框"},
+    {"zh": "LED灯串", "es": "luces led decorativas", "category": "灯饰"},
+    {"zh": "风铃挂饰", "es": "campana viento decorativa", "category": "户外装饰"},
+    {"zh": "墙贴贴纸", "es": "calcomania pared", "category": "墙饰"},
+    {"zh": "门帘隔断", "es": "cortina puerta", "category": "装饰"},
+    {"zh": "桌布餐垫", "es": "mantel individual", "category": "桌布"},
+    {"zh": "香薰蜡烛", "es": "vela aromatica", "category": "蜡烛"},
+    {"zh": "杂物收纳盒", "es": "caja organizadora", "category": "收纳"},
+    {"zh": "花园装饰", "es": "decoracion jardin", "category": "户外装饰"},
+    {"zh": "派对装饰", "es": "decoracion fiesta", "category": "派对用品"},
+    {"zh": "悬挂花篮", "es": "cesta colgante", "category": "户外装饰"},
+    {"zh": "仿真花束", "es": "ramo artificial", "category": "装饰"},
+    {"zh": "ins风装饰", "es": "decoracion aesthetic", "category": "装饰"},
+    {"zh": "镜子装饰", "es": "espejo decorativo", "category": "墙饰"},
+    {"zh": "创意挂钩", "es": "gancho decorativo", "category": "收纳"},
+    {"zh": "陶瓷摆件", "es": "figura ceramica", "category": "桌面摆件"},
+    {"zh": "沙发毯", "es": "manta sofa", "category": "装饰"},
+    {"zh": "纸巾盒", "es": "porta servilletas", "category": "桌面摆件"},
+    {"zh": "遥控器收纳", "es": "organizador control remoto", "category": "收纳"}
+  ],
+  "price_filter": {
+    "min_rmb": 12,
+    "max_rmb": 25,
+    "ideal_rmb": 20
+  },
+  "logistics_filter": {
+    "max_weight_kg": 2.0,
+    "min_weight_kg": 0.1,
+    "max_dimension_cm": 60,
+    "max_volumetric_kg": 3.0
+  },
+  "store_requirements": {
+    "min_years_active": 1,
+    "max_delivery_hours": 48,
+    "min_rating": 4.0,
+    "dropshipping_required": true
+  }
+}

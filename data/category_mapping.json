@@ -1,0 +1,74 @@
+{
+  "categories": {
+    "装饰": {
+      "name_es": "Decoración",
+      "name_en": "Decoration",
+      "subcategories": ["墙面装饰", "桌面摆件", "悬挂装饰", "季节性装饰"]
+    },
+    "灯饰": {
+      "name_es": "Iluminación Decorativa",
+      "name_en": "Decorative Lighting",
+      "subcategories": ["LED灯串", "小夜灯", "氛围灯", "太阳能灯"]
+    },
+    "桌布": {
+      "name_es": "Manteles",
+      "name_en": "Tablecloths",
+      "subcategories": ["节日桌布", "PVC桌布", "桌旗", "餐垫"]
+    },
+    "墙饰": {
+      "name_es": "Decoración de Pared",
+      "name_en": "Wall Decor",
+      "subcategories": ["墙贴", "挂画", "挂毯", "照片墙"]
+    },
+    "蜡烛": {
+      "name_es": "Velas Decorativas",
+      "name_en": "Decorative Candles",
+      "subcategories": ["香薰蜡烛", "LED蜡烛", "节日蜡烛", "烛台"]
+    },
+    "收纳": {
+      "name_es": "Organización del Hogar",
+      "name_en": "Home Organization",
+      "subcategories": ["厨房收纳", "衣物收纳", "桌面收纳", "浴室收纳"]
+    },
+    "派对用品": {
+      "name_es": "Artículos de Fiesta",
+      "name_en": "Party Supplies",
+      "subcategories": ["气球装饰", "彩带彩旗", "派对桌布", "一次性餐具"]
+    },
+    "户外装饰": {
+      "name_es": "Decoración Exterior",
+      "name_en": "Outdoor Decor",
+      "subcategories": ["花园装饰", "阳台装饰", "门廊装饰", "风铃"]
+    },
+    "圣诞树装饰": {
+      "name_es": "Decoración de Árbol Navidad",
+      "name_en": "Christmas Tree Decor",
+      "subcategories": ["圣诞球", "树顶星", "彩带", "挂饰"]
+    },
+    "花瓶": {
+      "name_es": "Floreros",
+      "name_en": "Vases",
+      "subcategories": ["玻璃花瓶", "陶瓷花瓶", "创意花瓶", "干花花瓶"]
+    },
+    "相框": {
+      "name_es": "Marcos de Fotos",
+      "name_en": "Photo Frames",
+      "subcategories": ["墙面相框", "桌面相框", "组合相框", "DIY相框"]
+    },
+    "面具": {
+      "name_es": "Máscaras",
+      "name_en": "Masks",
+      "subcategories": ["节日面具", "派对面具", "装饰面具"]
+    },
+    "桌面摆件": {
+      "name_es": "Adornos de Mesa",
+      "name_en": "Table Decor",
+      "subcategories": ["小型雕塑", "创意摆件", "树脂摆件"]
+    },
+    "厨房用品": {
+      "name_es": "Utensilios de Cocina",
+      "name_en": "Kitchen Tools",
+      "subcategories": ["厨房小工具", "调味瓶", "厨房收纳", "围裙"]
+    }
+  }
+}

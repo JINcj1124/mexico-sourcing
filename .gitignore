@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.db
+output/daily/*.json
+output/excel/*.xlsx
+node_modules/
+frontend/
+.env
