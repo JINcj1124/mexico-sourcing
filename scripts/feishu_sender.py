@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""飞书消息卡片发送器 - 通过Webhook推送选品日报到飞书群"""
+"""飞书消息卡片发送器 - 通过Webhook推送全部选品日报到飞书群"""
 import json
 import os
 import sys
@@ -11,7 +11,7 @@ PROJECT_ROOT = Path(__file__).parent.parent
 
 
 def send_feishu_report(products: list, stats: dict, today_str: str, report_url: str = ""):
-    """发送飞书Interactive Card消息卡片
+    """发送飞书Interactive Card消息卡片，推送全部SKU摘要列表。
 
     Args:
         products: 商品列表（从latest.json读取）
@@ -22,17 +22,16 @@ def send_feishu_report(products: list, stats: dict, today_str: str, report_url: 
     webhook_url = os.environ.get("FEISHU_WEBHOOK_URL", "")
     if not webhook_url:
         print("⚠️  未设置 FEISHU_WEBHOOK_URL 环境变量，跳过飞书推送")
-        print("   设置方法: export FEISHU_WEBHOOK_URL='https://open.feishu.cn/open-apis/bot/v2/hook/xxx'")
         return False
 
     total = len(products)
     avg_margin = sum(p.get("pricing", {}).get("estimated_margin", 0) for p in products) / total * 100 if total else 0
     avg_price = sum(p.get("pricing", {}).get("suggested_price_mxn", 0) for p in products) / total if total else 0
 
-    # 构建Top 5商品卡片元素
+    # 飞书卡片元素列表
     elements = []
 
-    # 摘要栏
+    # ── 摘要栏 ──
     elements.append({
         "tag": "div",
         "text": {
@@ -40,11 +39,11 @@ def send_feishu_report(products: list, stats: dict, today_str: str, report_url: 
             "content": f"**📊 今日精选 {total} 个SKU** | **平均毛利率 {avg_margin:.1f}%** | **均售价 ${avg_price:.0f} MXN**"
         }
     })
-
     elements.append({"tag": "hr"})
 
-    # Top 5商品
-    for p in products[:5]:
+    # ── 全部商品摘要列表 ──
+    import re
+    for p in products:
         prod = p.get("product", {})
         pricing = p.get("pricing", {})
         cost = p.get("cost", {})
@@ -53,7 +52,7 @@ def send_feishu_report(products: list, stats: dict, today_str: str, report_url: 
         rank = p.get("rank", 0)
         score = p.get("score", 0)
 
-        title = prod.get("title_zh", "")[:30]
+        title = prod.get("title_zh", "")
         purchase = cost.get("purchase_price_rmb", 0)
         price_mxn = pricing.get("suggested_price_mxn", 0)
         margin = pricing.get("estimated_margin", 0) * 100
@@ -67,19 +66,18 @@ def send_feishu_report(products: list, stats: dict, today_str: str, report_url: 
         sales = ""
         for d in reason.get("details", []):
             if "销量" in d:
-                import re
                 m = re.search(r'销量: ([\d,]+)', d)
                 if m:
                     sales = m.group(1)
                 break
 
-        festival_str = f" 🎪 {festival}" if festival else ""
+        festival_badge = f" 🎪`{festival}`" if festival else ""
+        sales_text = f" | 🔥{sales}件" if sales else ""
 
         content = (
-            f"**#{rank} {title}** (评分{score}){festival_str}\n"
-            f"💰 进货价 ¥{purchase:.1f} → 售价 ${price_mxn:.0f} MXN | 毛利{margin:.0f}%\n"
-            f"🔥 销量 {sales} | ⭐ {store_rating}分 | 🚚 {delivery}h发货\n"
-            f"🔗 [点击查看1688货源]({url})"
+            f"**#{rank} {title}**{festival_badge}\n"
+            f"💰 ¥{purchase:.1f} → ${price_mxn:.0f} MXN | 毛利{margin:.0f}% | ⭐{store_rating} | 🚚{delivery}h{sales_text}\n"
+            f"[🔗 1688货源]({url})"
         )
 
         elements.append({
@@ -88,13 +86,13 @@ def send_feishu_report(products: list, stats: dict, today_str: str, report_url: 
         })
         elements.append({"tag": "hr"})
 
-    # 查看完整日报按钮
+    # ── 底部：查看完整报告按钮 ──
     if report_url:
         elements.append({
             "tag": "action",
             "actions": [{
                 "tag": "button",
-                "text": {"tag": "plain_text", "content": f"📋 查看完整日报（全部{total}个SKU）"},
+                "text": {"tag": "plain_text", "content": "📋 查看完整报告（含物流/竞品/描述详情）"},
                 "url": report_url,
                 "type": "primary"
             }]
@@ -102,7 +100,7 @@ def send_feishu_report(products: list, stats: dict, today_str: str, report_url: 
     else:
         elements.append({
             "tag": "div",
-            "text": {"tag": "lark_md", "content": f"📋 完整日报共 {total} 个SKU，详见仓库 output/daily/latest_report.md"}
+            "text": {"tag": "lark_md", "content": "📋 完整报告详见仓库 output/daily/latest_report.md"}
         })
 
     # 构建消息卡片
@@ -125,12 +123,12 @@ def send_feishu_report(products: list, stats: dict, today_str: str, report_url: 
         resp = requests.post(
             webhook_url,
             headers={"Content-Type": "application/json"},
-            data=json.dumps(card),
+            data=json.dumps(card, ensure_ascii=False),
             timeout=10
         )
         result = resp.json()
         if result.get("code") == 0 or result.get("StatusCode") == 0:
-            print(f"✅ 飞书推送成功！共推送 {min(5, total)} 个Top商品卡片")
+            print(f"✅ 飞书推送成功！共推送全部 {total} 个SKU")
             return True
         else:
             print(f"❌ 飞书推送失败: {result}")
