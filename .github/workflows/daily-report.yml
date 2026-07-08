@@ -43,6 +43,14 @@ jobs:
       - name: 部署到 GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
+              - name: 部署到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output/daily
+          publish_branch: gh-pages
+          force_orphan: true
+
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./output/daily
           publish_branch: gh-pages
