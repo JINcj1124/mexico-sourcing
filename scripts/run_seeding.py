@@ -3,7 +3,8 @@
 使用精选的家居品类种子商品，通过完整的物流→定价→评分管道，
 产出可直接上架的选品推荐。
 """
-import sys, json, random
+import sys, json, random, os
+from urllib.parse import quote
 sys.path.insert(0, ".")
 
 from datetime import date
@@ -13,6 +14,24 @@ from backend.algorithms.festival_weighter import FestivalWeighter
 from backend.algorithms.scoring import ProductScorer, ScoredProduct
 from backend.config import settings
 from backend.models.database import SessionLocal, init_db
+
+
+def build_1688_url(seed: dict) -> str:
+    """生成真实可用的1688货源链接。
+
+    规则：
+    - 若种子已提供 detail.1688.com 真实详情页，直接保留
+    - 否则用完整标题关键词生成 1688 搜索链接，避免截断乱码
+    """
+    url = seed.get("url", "")
+    if url and "detail.1688.com" in url:
+        return url
+
+    title = seed.get("title", "")
+    # 取标题前 15 个字符作为核心关键词，比原来 8 个字更完整，保证搜索命中率
+    keyword = title[:15].strip()
+    return f"https://s.1688.com/selloffer/offer_search.htm?keywords={quote(keyword)}"
+
 
 # === 种子商品：1688常见家居品类，价格20±5元，轻量级 ===
 # ===== 墨西哥跨境优质选品种子库 =====
@@ -361,7 +380,7 @@ def run():
                 "title_es": "",
                 "category": seed["cat"],
                 "image_url": seed.get("image_url", ""),
-                "source_url": seed.get("url", f"https://s.1688.com/selloffer/offer_search.htm?keywords=%E7%A1%85%E8%97%BB%E6%B3%A5%E5%90%B8%E6%B0%B4%E5%9E%AB%E5%8D%AB%E7%94%9F"),
+                "source_url": build_1688_url(seed),
                 "description": seed.get("desc", ""),
             },
             "cost": {
@@ -455,7 +474,7 @@ def run():
                 selection_date=today,
                 tags=item["tags"],
                 image_url=seed_item.get("image_url", ""),
-                source_url=seed_item.get("url", ""),
+                source_url=build_1688_url(seed_item),
                 sales_volume=seed_item.get("sales", 0),
                 description=seed_item.get("desc", ""),
             )

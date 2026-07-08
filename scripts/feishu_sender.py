@@ -10,14 +10,14 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).parent.parent
 
 
-def send_feishu_report(products: list, stats: dict, today_str: str, website_url: str = ""):
+def send_feishu_report(products: list, stats: dict, today_str: str, report_url: str = ""):
     """发送飞书Interactive Card消息卡片
 
     Args:
         products: 商品列表（从latest.json读取）
         stats: 统计信息
         today_str: 日期字符串
-        website_url: GitHub Pages网站URL
+        report_url: GitHub仓库内Markdown完整报告URL
     """
     webhook_url = os.environ.get("FEISHU_WEBHOOK_URL", "")
     if not webhook_url:
@@ -89,20 +89,20 @@ def send_feishu_report(products: list, stats: dict, today_str: str, website_url:
         elements.append({"tag": "hr"})
 
     # 查看完整日报按钮
-    if website_url:
+    if report_url:
         elements.append({
             "tag": "action",
             "actions": [{
                 "tag": "button",
-                "text": {"tag": "plain_text", "content": "📋 查看完整日报（全部18个SKU）"},
-                "url": website_url,
+                "text": {"tag": "plain_text", "content": f"📋 查看完整日报（全部{total}个SKU）"},
+                "url": report_url,
                 "type": "primary"
             }]
         })
     else:
         elements.append({
             "tag": "div",
-            "text": {"tag": "lark_md", "content": f"📋 完整日报共 {total} 个SKU，详见附件HTML文件"}
+            "text": {"tag": "lark_md", "content": f"📋 完整日报共 {total} 个SKU，详见仓库 output/daily/latest_report.md"}
         })
 
     # 构建消息卡片
@@ -154,10 +154,11 @@ def main():
     products = data.get("products", [])
     stats = {"total": len(products)}
 
-    # GitHub Pages URL (从环境变量读取，或留空)
-    website_url = os.environ.get("WEBSITE_URL", "")
+    # 默认完整报告链接
+    default_report_url = f"https://github.com/JINcj1124/mexico-sourcing/blob/main/output/daily/latest_report.md"
+    report_url = os.environ.get("REPORT_URL", default_report_url)
 
-    send_feishu_report(products, stats, today_str, website_url)
+    send_feishu_report(products, stats, today_str, report_url)
 
 
 if __name__ == "__main__":
