@@ -28,9 +28,9 @@ class Settings(BaseSettings):
     mxn_to_rmb: float = 0.42                 # 墨西哥比索汇率
     min_markup: float = 6.0                  # 最低溢价倍率
     max_purchase_price: float = 25.0         # 进货价上限 RMB
-    min_purchase_price: float = 12.0         # 进货价下限 RMB
-    max_weight_kg: float = 2.0               # 重量上限 kg
-    min_weight_kg: float = 0.1               # 重量下限 kg
+    min_purchase_price: float = 4.0          # 进货价下限 RMB（允许低价爆款）
+    max_weight_kg: float = 1.0               # 重量上限 kg（精品小件：≤1kg）
+    min_weight_kg: float = 0.03              # 重量下限 kg（允许超轻产品如皮革盒45g）
     target_sku_count: int = 20               # 每日精选数量
 
     # --- 爬虫参数 ---
