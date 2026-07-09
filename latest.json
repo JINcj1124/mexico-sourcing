@@ -1,0 +1,1490 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T10:00:00+08:00",
+  "products": [
+    {
+      "id": "seed-01",
+      "rank": 1,
+      "score": 80.19,
+      "product": {
+        "title_zh": "多功能数码收纳包数据线充电宝耳机整理袋便携旅行商务电子配件包",
+        "title_es": "",
+        "category": "旅行便携收纳",
+        "image_url": "https://placehold.co/400x300/ECEFF1/37474F?text=数码收纳包",
+        "source_url": "https://detail.1688.com/offer/789337800374.html",
+        "description": "多功能数码收纳包，数据线/充电宝/耳机一站式整理。墨西哥人均多设备线材管理痛点，商务旅行双场景，仅0.15kg极致轻量。"
+      },
+      "cost": {
+        "purchase_price_rmb": 13.88,
+        "air_freight_rmb": 8.25,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.21,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 43.34
+      },
+      "pricing": {
+        "suggested_price_rmb": 83.28,
+        "suggested_price_mxn": 198.29,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.3996
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 240,
+        "shopee_mx_lowest_mxn": 270,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥18"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.15,
+        "volumetric_weight_kg": 0.12,
+        "chargeable_weight_kg": 0.15,
+        "dimensions_cm": {
+          "l": 20,
+          "w": 12,
+          "h": 3
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥83.28已低于竞品最低¥100.8",
+        "details": [
+          "品类: 旅行便携收纳 · 1688销量: 5,700件",
+          "店铺: 义乌市誉承箱包 · 3.5年 · 评价4.7分",
+          "物流: 0.15kg · 空运费¥8.25",
+          "定价: ¥13.9 → ¥83 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "义乌市誉承箱包",
+        "years_active": 3.5,
+        "rating": 4.7,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "高毛利",
+          "color": "green"
+        },
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "高评价",
+          "color": "purple"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-02",
+      "rank": 2,
+      "score": 80.03,
+      "product": {
+        "title_zh": "包包防尘收纳袋透明可视悬挂式衣柜挂袋整理袋多口袋挂式5件套",
+        "title_es": "",
+        "category": "衣柜布艺收纳",
+        "image_url": "https://placehold.co/400x300/E8EAF6/3949AB?text=包包防尘袋",
+        "source_url": "https://detail.1688.com/offer/976968506923.html",
+        "description": "包包防尘收纳袋透明可视5件套，墨西哥女性包包拥有量高。悬挂式防尘防变形刚需，仅2cm厚度运费极低。"
+      },
+      "cost": {
+        "purchase_price_rmb": 11.0,
+        "air_freight_rmb": 8.25,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.16,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 40.41
+      },
+      "pricing": {
+        "suggested_price_rmb": 66.0,
+        "suggested_price_mxn": 157.14,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.3077
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 185,
+        "shopee_mx_lowest_mxn": 200,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥12"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.15,
+        "volumetric_weight_kg": 0.15,
+        "chargeable_weight_kg": 0.15,
+        "dimensions_cm": {
+          "l": 25,
+          "w": 18,
+          "h": 2
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥66.0已低于竞品最低¥77.7",
+        "details": [
+          "品类: 衣柜布艺收纳 · 1688销量: 6,500件",
+          "店铺: 义乌市布料包装 · 3.5年 · 评价4.6分",
+          "物流: 0.15kg · 空运费¥8.25",
+          "定价: ¥11.0 → ¥66 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "义乌市布料包装",
+        "years_active": 3.5,
+        "rating": 4.6,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "高毛利",
+          "color": "green"
+        },
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-03",
+      "rank": 3,
+      "score": 80.03,
+      "product": {
+        "title_zh": "迷你便携首饰盒绒布内衬旅行款耳环耳钉戒指展示盒饰品整理盒小号",
+        "title_es": "",
+        "category": "首饰化妆收纳",
+        "image_url": "https://placehold.co/400x300/FFF8E1/FF6F00?text=迷你首饰盒",
+        "source_url": "https://detail.1688.com/offer/990009365993.html",
+        "description": "迷你便携首饰盒绒布内衬，3.6万+销量。仅0.12kg极致轻量，墨西哥女性首饰消费力强但收纳普遍混乱，旅行/日常双场景。"
+      },
+      "cost": {
+        "purchase_price_rmb": 11.5,
+        "air_freight_rmb": 6.6,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.17,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 39.27
+      },
+      "pricing": {
+        "suggested_price_rmb": 69.0,
+        "suggested_price_mxn": 164.29,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.3508
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 230,
+        "shopee_mx_lowest_mxn": 260,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥28"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.12,
+        "volumetric_weight_kg": 0.032,
+        "chargeable_weight_kg": 0.12,
+        "dimensions_cm": {
+          "l": 12,
+          "w": 8,
+          "h": 2
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥69.0已低于竞品最低¥96.6",
+        "details": [
+          "品类: 首饰化妆收纳 · 1688销量: 36,000件",
+          "店铺: 义乌市饰品包装 · 3.0年 · 评价4.6分",
+          "物流: 0.12kg · 空运费¥6.60",
+          "定价: ¥11.5 → ¥69 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "义乌市饰品包装",
+        "years_active": 3.0,
+        "rating": 4.6,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "高毛利",
+          "color": "green"
+        },
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-04",
+      "rank": 4,
+      "score": 80.03,
+      "product": {
+        "title_zh": "便携式洗澡篮出差旅行手提篮子可折叠干湿分离洗浴收纳筐沥水篮",
+        "title_es": "",
+        "category": "浴室厨房折叠",
+        "image_url": "https://placehold.co/400x300/E3F2FD/0D47A1?text=折叠洗澡篮",
+        "source_url": "https://detail.1688.com/offer/910635682306.html",
+        "description": "便携折叠洗澡篮干湿分离沥水篮，6700+销量。墨西哥大学宿舍/合租房浴室共用场景刚需，可折叠设计扁平发货。"
+      },
+      "cost": {
+        "purchase_price_rmb": 14.3,
+        "air_freight_rmb": 16.5,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.21,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 52.01
+      },
+      "pricing": {
+        "suggested_price_rmb": 85.8,
+        "suggested_price_mxn": 204.29,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.3138
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 210,
+        "shopee_mx_lowest_mxn": 225,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥2"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.3,
+        "volumetric_weight_kg": 0.3,
+        "chargeable_weight_kg": 0.3,
+        "dimensions_cm": {
+          "l": 25,
+          "w": 18,
+          "h": 4
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥85.8已低于竞品最低¥88.2",
+        "details": [
+          "品类: 浴室厨房折叠 · 1688销量: 6,700件",
+          "店铺: 台州佳好塑业 · 3.0年 · 评价4.6分",
+          "物流: 0.30kg · 空运费¥16.50",
+          "定价: ¥14.3 → ¥86 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "台州佳好塑业",
+        "years_active": 3.0,
+        "rating": 4.6,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "高毛利",
+          "color": "green"
+        },
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-05",
+      "rank": 5,
+      "score": 80.0,
+      "product": {
+        "title_zh": "悬挂式衣柜收纳袋多层布艺挂袋折叠收纳架衣物整理袋宿舍橱柜分层",
+        "title_es": "",
+        "category": "衣柜布艺收纳",
+        "image_url": "https://placehold.co/400x300/E0E0E0/424242?text=悬挂收纳袋",
+        "source_url": "https://detail.1688.com/offer/976968506923.html",
+        "description": "悬挂式衣柜多层收纳袋，墨西哥衣柜大多单层设计，悬挂式6层扩容神器。可折叠设计扁平发货，0.22kg轻量运费友好。"
+      },
+      "cost": {
+        "purchase_price_rmb": 14.0,
+        "air_freight_rmb": 12.38,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.21,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 47.59
+      },
+      "pricing": {
+        "suggested_price_rmb": 76.7,
+        "suggested_price_mxn": 182.62,
+        "markup_ratio": 5.48,
+        "estimated_margin": 0.2996
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 185,
+        "shopee_mx_lowest_mxn": 200,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥1"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.22,
+        "volumetric_weight_kg": 0.225,
+        "chargeable_weight_kg": 0.225,
+        "dimensions_cm": {
+          "l": 25,
+          "w": 18,
+          "h": 3
+        }
+      },
+      "reason": {
+        "primary": "价格对标：低于竞品最低¥77.7，调整至¥76.7",
+        "details": [
+          "品类: 衣柜布艺收纳 · 1688销量: 8,900件",
+          "店铺: 义乌市布料包装 · 3.5年 · 评价4.6分",
+          "物流: 0.23kg · 空运费¥12.38",
+          "定价: ¥14.0 → ¥77 (×5.5)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "义乌市布料包装",
+        "years_active": 3.5,
+        "rating": 4.6,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "高毛利",
+          "color": "green"
+        },
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-06",
+      "rank": 6,
+      "score": 78.53,
+      "product": {
+        "title_zh": "EVA防水折叠收纳袋旅行便携洗漱化妆包游泳健身干湿分离收纳袋",
+        "title_es": "",
+        "category": "软质折叠收纳",
+        "image_url": "https://placehold.co/400x300/E3F2FD/0D47A1?text=EVA防水折叠袋",
+        "source_url": "https://detail.1688.com/offer/948864162777.html",
+        "description": "EVA防水折叠收纳袋，旅行/游泳/健身多场景。仅0.12kg极致轻量，防水材质适配墨西哥雨季，折叠后2cm运费几乎为零。"
+      },
+      "cost": {
+        "purchase_price_rmb": 12.0,
+        "air_freight_rmb": 6.6,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.18,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 39.78
+      },
+      "pricing": {
+        "suggested_price_rmb": 72.0,
+        "suggested_price_mxn": 171.43,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.3675
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 210,
+        "shopee_mx_lowest_mxn": 230,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥16"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.12,
+        "volumetric_weight_kg": 0.05,
+        "chargeable_weight_kg": 0.12,
+        "dimensions_cm": {
+          "l": 15,
+          "w": 10,
+          "h": 2
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥72.0已低于竞品最低¥88.2",
+        "details": [
+          "品类: 软质折叠收纳 · 1688销量: 9,500件",
+          "店铺: 义乌市鸿妙日用品 · 2.5年 · 评价4.5分",
+          "物流: 0.12kg · 空运费¥6.60",
+          "定价: ¥12.0 → ¥72 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "义乌市鸿妙日用品",
+        "years_active": 2.5,
+        "rating": 4.5,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "高毛利",
+          "color": "green"
+        },
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-07",
+      "rank": 7,
+      "score": 78.13,
+      "product": {
+        "title_zh": "内衣收纳盒抽屉式分格整理盒文胸袜子内裤分类收纳箱可折叠宿舍用",
+        "title_es": "",
+        "category": "衣柜布艺收纳",
+        "image_url": "https://placehold.co/400x300/FCE4EC/F06292?text=内衣收纳盒",
+        "source_url": "https://detail.1688.com/offer/841768092964.html",
+        "description": "可折叠内衣分格收纳盒，1.5万+销量。墨西哥消费者内衣收纳意识提升，分格设计解决抽屉混乱痛点，可折叠降低运费。"
+      },
+      "cost": {
+        "purchase_price_rmb": 13.5,
+        "air_freight_rmb": 15.4,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.2,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 50.1
+      },
+      "pricing": {
+        "suggested_price_rmb": 76.7,
+        "suggested_price_mxn": 182.62,
+        "markup_ratio": 5.68,
+        "estimated_margin": 0.2668
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 185,
+        "shopee_mx_lowest_mxn": 200,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥1"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.22,
+        "volumetric_weight_kg": 0.28,
+        "chargeable_weight_kg": 0.28,
+        "dimensions_cm": {
+          "l": 28,
+          "w": 20,
+          "h": 3
+        }
+      },
+      "reason": {
+        "primary": "价格对标：低于竞品最低¥77.7，调整至¥76.7",
+        "details": [
+          "品类: 衣柜布艺收纳 · 1688销量: 15,300件",
+          "店铺: 台州市黄岩宏盛 · 4.5年 · 评价4.8分",
+          "物流: 0.28kg · 空运费¥15.40",
+          "定价: ¥13.5 → ¥77 (×5.7)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "台州市黄岩宏盛",
+        "years_active": 4.5,
+        "rating": 4.8,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "高毛利",
+          "color": "green"
+        },
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "高评价",
+          "color": "purple"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-08",
+      "rank": 8,
+      "score": 77.64,
+      "product": {
+        "title_zh": "小号皮革折叠收纳盒玄关钥匙皮革收纳笔筒可折叠桌面置物篮精致",
+        "title_es": "",
+        "category": "桌面精品收纳",
+        "image_url": "https://placehold.co/400x300/EFEBE9/3E2723?text=皮革折叠收纳盒",
+        "source_url": "https://detail.1688.com/offer/660324994691.html",
+        "description": "小号皮革折叠收纳盒，仅45g运费几乎为零。桌面/梳妆台精致收纳，皮革材质差异化强溢价高，多色可选提升客单价。"
+      },
+      "cost": {
+        "purchase_price_rmb": 8.0,
+        "air_freight_rmb": 2.48,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.12,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 31.59
+      },
+      "pricing": {
+        "suggested_price_rmb": 48.0,
+        "suggested_price_mxn": 114.29,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.2618
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 205,
+        "shopee_mx_lowest_mxn": 220,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥38"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.045,
+        "volumetric_weight_kg": 0.033,
+        "chargeable_weight_kg": 0.045,
+        "dimensions_cm": {
+          "l": 10,
+          "w": 10,
+          "h": 2
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥48.0已低于竞品最低¥86.1",
+        "details": [
+          "品类: 桌面精品收纳 · 1688销量: 8,500件",
+          "店铺: 深圳悠悦礼品 · 3.5年 · 评价4.7分",
+          "物流: 0.04kg · 空运费¥2.48",
+          "定价: ¥8.0 → ¥48 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "深圳悠悦礼品",
+        "years_active": 3.5,
+        "rating": 4.7,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "高毛利",
+          "color": "green"
+        },
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "高评价",
+          "color": "purple"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-09",
+      "rank": 9,
+      "score": 75.75,
+      "product": {
+        "title_zh": "帆布折叠收纳篮桌面浴室多用置物篮多色可选家用杂物整理收纳筐",
+        "title_es": "",
+        "category": "软质折叠收纳",
+        "image_url": "https://placehold.co/400x300/FFF3E0/E65100?text=帆布折叠收纳篮",
+        "source_url": "https://detail.1688.com/offer/919171467353.html",
+        "description": "帆布折叠收纳篮，桌面/浴室/茶几多场景。3.7万+销量验证，多色可选提升客单价，折叠后3cm扁平发货运费友好。"
+      },
+      "cost": {
+        "purchase_price_rmb": 10.0,
+        "air_freight_rmb": 9.9,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.15,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 41.05
+      },
+      "pricing": {
+        "suggested_price_rmb": 60.0,
+        "suggested_price_mxn": 142.86,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.2358
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 210,
+        "shopee_mx_lowest_mxn": 230,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥28"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.18,
+        "volumetric_weight_kg": 0.15,
+        "chargeable_weight_kg": 0.18,
+        "dimensions_cm": {
+          "l": 20,
+          "w": 15,
+          "h": 3
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥60.0已低于竞品最低¥88.2",
+        "details": [
+          "品类: 软质折叠收纳 · 1688销量: 37,000件",
+          "店铺: 义乌市千贝家居 · 3.0年 · 评价4.6分",
+          "物流: 0.18kg · 空运费¥9.90",
+          "定价: ¥10.0 → ¥60 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "义乌市千贝家居",
+        "years_active": 3.0,
+        "rating": 4.6,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-10",
+      "rank": 10,
+      "score": 75.59,
+      "product": {
+        "title_zh": "牛津布大容量折叠收纳箱透明视窗防尘防潮衣物棉被储物箱搬家打包",
+        "title_es": "",
+        "category": "软质折叠收纳",
+        "image_url": "https://placehold.co/400x300/D7CCC8/4E342E?text=牛津布折叠收纳箱",
+        "source_url": "https://detail.1688.com/offer/1011168460634.html",
+        "description": "牛津布大容量折叠收纳箱，透明视窗可视化设计。墨西哥雨季潮湿，换季衣物防潮收纳为家庭刚需，可视窗提升找物效率。"
+      },
+      "cost": {
+        "purchase_price_rmb": 15.0,
+        "air_freight_rmb": 24.06,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.22,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 60.29
+      },
+      "pricing": {
+        "suggested_price_rmb": 87.2,
+        "suggested_price_mxn": 207.62,
+        "markup_ratio": 5.81,
+        "estimated_margin": 0.2286
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 210,
+        "shopee_mx_lowest_mxn": 230,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥1"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.3,
+        "volumetric_weight_kg": 0.438,
+        "chargeable_weight_kg": 0.438,
+        "dimensions_cm": {
+          "l": 35,
+          "w": 25,
+          "h": 3
+        }
+      },
+      "reason": {
+        "primary": "价格对标：低于竞品最低¥88.2，调整至¥87.2",
+        "details": [
+          "品类: 软质折叠收纳 · 1688销量: 22,000件",
+          "店铺: 义乌市婉丽日用品 · 4.0年 · 评价4.8分",
+          "物流: 0.44kg · 空运费¥24.06",
+          "定价: ¥15.0 → ¥87 (×5.8)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "义乌市婉丽日用品",
+        "years_active": 4.0,
+        "rating": 4.8,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "高评价",
+          "color": "purple"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-11",
+      "rank": 11,
+      "score": 75.52,
+      "product": {
+        "title_zh": "旅行收纳袋七件套大容量出差行李箱分装袋折叠便携衣服洗漱收纳包",
+        "title_es": "",
+        "category": "旅行便携收纳",
+        "image_url": "https://placehold.co/400x300/FFCCBC/BF360C?text=旅行收纳七件套",
+        "source_url": "https://detail.1688.com/offer/785451201922.html",
+        "description": "旅行收纳七件套大容量分装袋，10万+销量爆款。七件套高客单价，墨西哥旅行季+开学季双场景，折叠扁平发货运费可控。"
+      },
+      "cost": {
+        "purchase_price_rmb": 12.0,
+        "air_freight_rmb": 16.5,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.18,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 49.68
+      },
+      "pricing": {
+        "suggested_price_rmb": 72.0,
+        "suggested_price_mxn": 171.43,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.23
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 240,
+        "shopee_mx_lowest_mxn": 270,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥29"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.25,
+        "volumetric_weight_kg": 0.3,
+        "chargeable_weight_kg": 0.3,
+        "dimensions_cm": {
+          "l": 25,
+          "w": 18,
+          "h": 4
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥72.0已低于竞品最低¥100.8",
+        "details": [
+          "品类: 旅行便携收纳 · 1688销量: 100,000件",
+          "店铺: 义乌市加美箱包 · 4.0年 · 评价4.7分",
+          "物流: 0.30kg · 空运费¥16.50",
+          "定价: ¥12.0 → ¥72 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "义乌市加美箱包",
+        "years_active": 4.0,
+        "rating": 4.7,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "高评价",
+          "color": "purple"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-12",
+      "rank": 12,
+      "score": 75.4,
+      "product": {
+        "title_zh": "跨境折叠伸缩收纳袋超市便捷购物袋旋转收纳袋小圆盘便携钥匙扣",
+        "title_es": "",
+        "category": "软质折叠收纳",
+        "image_url": "https://placehold.co/400x300/E8F5E9/1B5E20?text=折叠购物袋",
+        "source_url": "https://detail.1688.com/offer/923793099616.html",
+        "description": "跨境折叠伸缩收纳袋/购物袋钥匙扣款，仅50g极致轻量。墨西哥超市购物刚需，折叠后仅2cm厚度，可挂钥匙扣随身携带。"
+      },
+      "cost": {
+        "purchase_price_rmb": 10.0,
+        "air_freight_rmb": 2.75,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.15,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 33.9
+      },
+      "pricing": {
+        "suggested_price_rmb": 60.0,
+        "suggested_price_mxn": 142.86,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.355
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 210,
+        "shopee_mx_lowest_mxn": 230,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥28"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.05,
+        "volumetric_weight_kg": 0.021,
+        "chargeable_weight_kg": 0.05,
+        "dimensions_cm": {
+          "l": 8,
+          "w": 8,
+          "h": 2
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥60.0已低于竞品最低¥88.2",
+        "details": [
+          "品类: 软质折叠收纳 · 1688销量: 3,800件",
+          "店铺: 义乌市极翼电子 · 2.0年 · 评价4.5分",
+          "物流: 0.05kg · 空运费¥2.75",
+          "定价: ¥10.0 → ¥60 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "义乌市极翼电子",
+        "years_active": 2.0,
+        "rating": 4.5,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "高毛利",
+          "color": "green"
+        },
+        {
+          "label": "市场验证",
+          "color": "blue"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-13",
+      "rank": 13,
+      "score": 73.92,
+      "product": {
+        "title_zh": "多功能桌面收纳盒化妆品护肤品整理盒学生宿舍办公桌抽屉式置物架",
+        "title_es": "",
+        "category": "桌面精品收纳",
+        "image_url": "https://placehold.co/400x300/E8EAF6/3949AB?text=多功能桌面收纳",
+        "source_url": "https://detail.1688.com/offer/1000333057143.html",
+        "description": "多功能桌面化妆品收纳盒抽屉式，9800+销量验证。墨西哥高校开学季桌面收纳需求暴增，女生宿舍人均一件的确定性需求。"
+      },
+      "cost": {
+        "purchase_price_rmb": 17.5,
+        "air_freight_rmb": 22.0,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.26,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 60.76
+      },
+      "pricing": {
+        "suggested_price_rmb": 85.1,
+        "suggested_price_mxn": 202.62,
+        "markup_ratio": 4.86,
+        "estimated_margin": 0.206
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 205,
+        "shopee_mx_lowest_mxn": 220,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥1"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.4,
+        "volumetric_weight_kg": 0.257,
+        "chargeable_weight_kg": 0.4,
+        "dimensions_cm": {
+          "l": 22,
+          "w": 14,
+          "h": 5
+        }
+      },
+      "reason": {
+        "primary": "价格对标：低于竞品最低¥86.1，调整至¥85.1",
+        "details": [
+          "品类: 桌面精品收纳 · 1688销量: 9,800件",
+          "店铺: 广州亚之克塑料 · 3.0年 · 评价4.7分",
+          "物流: 0.40kg · 空运费¥22.00",
+          "定价: ¥17.5 → ¥85 (×4.9)"
+        ],
+        "festival_relevance": "Back to School"
+      },
+      "store": {
+        "name": "广州亚之克塑料",
+        "years_active": 3.0,
+        "rating": 4.7,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "Back to School",
+          "color": "red"
+        },
+        {
+          "label": "高评价",
+          "color": "purple"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-14",
+      "rank": 14,
+      "score": 73.63,
+      "product": {
+        "title_zh": "日式棉麻可视窗折叠收纳盒大号可折叠衣物储物箱家用布艺整理箱",
+        "title_es": "",
+        "category": "桌面精品收纳",
+        "image_url": "https://placehold.co/400x300/F5F5F5/616161?text=日式棉麻收纳盒",
+        "source_url": "https://detail.1688.com/offer/694184012152.html",
+        "description": "日式棉麻可视窗折叠收纳盒，10万+销量验证。日式简约风格匹配墨西哥年轻消费者审美，可视窗设计+可折叠为差异化卖点。"
+      },
+      "cost": {
+        "purchase_price_rmb": 10.0,
+        "air_freight_rmb": 12.1,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.15,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 43.25
+      },
+      "pricing": {
+        "suggested_price_rmb": 60.0,
+        "suggested_price_mxn": 142.86,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.1992
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 205,
+        "shopee_mx_lowest_mxn": 220,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥26"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.22,
+        "volumetric_weight_kg": 0.176,
+        "chargeable_weight_kg": 0.22,
+        "dimensions_cm": {
+          "l": 22,
+          "w": 16,
+          "h": 3
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥60.0已低于竞品最低¥86.1",
+        "details": [
+          "品类: 桌面精品收纳 · 1688销量: 100,000件",
+          "店铺: 义乌市慕也科技 · 3.5年 · 评价4.8分",
+          "物流: 0.22kg · 空运费¥12.10",
+          "定价: ¥10.0 → ¥60 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "义乌市慕也科技",
+        "years_active": 3.5,
+        "rating": 4.8,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "高评价",
+          "color": "purple"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-15",
+      "rank": 15,
+      "score": 72.49,
+      "product": {
+        "title_zh": "亚克力透明化妆品收纳盒旋转桌面口红护肤品整理架迷你大容量",
+        "title_es": "",
+        "category": "桌面精品收纳",
+        "image_url": "https://placehold.co/400x300/FFE0B2/E65100?text=亚克力旋转收纳",
+        "source_url": "https://detail.1688.com/offer/808844059497.html",
+        "description": "亚克力透明旋转化妆品收纳架，360°旋转差异化强。墨西哥女性化妆品收纳升级需求旺盛，迷你款适配小户型梳妆台。"
+      },
+      "cost": {
+        "purchase_price_rmb": 22.0,
+        "air_freight_rmb": 19.25,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.33,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 62.58
+      },
+      "pricing": {
+        "suggested_price_rmb": 85.1,
+        "suggested_price_mxn": 202.62,
+        "markup_ratio": 3.87,
+        "estimated_margin": 0.1846
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 205,
+        "shopee_mx_lowest_mxn": 220,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥1"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.35,
+        "volumetric_weight_kg": 0.225,
+        "chargeable_weight_kg": 0.35,
+        "dimensions_cm": {
+          "l": 15,
+          "w": 15,
+          "h": 6
+        }
+      },
+      "reason": {
+        "primary": "价格对标：低于竞品最低¥86.1，调整至¥85.1",
+        "details": [
+          "品类: 桌面精品收纳 · 1688销量: 6,700件",
+          "店铺: 广州亚之克塑料 · 3.0年 · 评价4.7分",
+          "物流: 0.35kg · 空运费¥19.25",
+          "定价: ¥22.0 → ¥85 (×3.9)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "广州亚之克塑料",
+        "years_active": 3.0,
+        "rating": 4.7,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "高评价",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "id": "seed-16",
+      "rank": 16,
+      "score": 66.61,
+      "product": {
+        "title_zh": "无纺布折叠收纳盒带盖衣物储物箱内衣袜子分类整理箱家用卧室便携",
+        "title_es": "",
+        "category": "软质折叠收纳",
+        "image_url": "https://placehold.co/400x300/ECEFF1/37474F?text=无纺布折叠收纳盒",
+        "source_url": "https://detail.1688.com/offer/694418993286.html",
+        "description": "无纺布折叠收纳盒带盖，衣物储物分类整理。10万+销量验证，折叠后仅3cm厚，运费极低。墨西哥租房族+宿舍学生双场景爆品。"
+      },
+      "cost": {
+        "purchase_price_rmb": 8.5,
+        "air_freight_rmb": 12.38,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.13,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 42.0
+      },
+      "pricing": {
+        "suggested_price_rmb": 51.0,
+        "suggested_price_mxn": 121.43,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.0964
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 210,
+        "shopee_mx_lowest_mxn": 230,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥37"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.18,
+        "volumetric_weight_kg": 0.225,
+        "chargeable_weight_kg": 0.225,
+        "dimensions_cm": {
+          "l": 25,
+          "w": 18,
+          "h": 3
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥51.0已低于竞品最低¥88.2",
+        "details": [
+          "品类: 软质折叠收纳 · 1688销量: 100,000件",
+          "店铺: 金华市沐也科技 · 3.5年 · 评价4.7分",
+          "物流: 0.23kg · 空运费¥12.38",
+          "定价: ¥8.5 → ¥51 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "金华市沐也科技",
+        "years_active": 3.5,
+        "rating": 4.7,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "高评价",
+          "color": "purple"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-17",
+      "rank": 17,
+      "score": 66.32,
+      "product": {
+        "title_zh": "首饰收纳盒便携式耳钉耳环手饰品项链戒指小型精致迷你新款跨境",
+        "title_es": "",
+        "category": "首饰化妆收纳",
+        "image_url": "https://placehold.co/400x300/FFF8E1/FF6F00?text=首饰收纳盒",
+        "source_url": "https://detail.1688.com/offer/923793099616.html",
+        "description": "小型精致迷你首饰收纳盒，仅80g极致轻量。墨西哥女性首饰消费高频，豹纹/多色款差异化强，首饰品类溢价空间最大。"
+      },
+      "cost": {
+        "purchase_price_rmb": 7.0,
+        "air_freight_rmb": 4.4,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.1,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 32.51
+      },
+      "pricing": {
+        "suggested_price_rmb": 42.0,
+        "suggested_price_mxn": 100.0,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.1461
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 230,
+        "shopee_mx_lowest_mxn": 260,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥55"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.08,
+        "volumetric_weight_kg": 0.035,
+        "chargeable_weight_kg": 0.08,
+        "dimensions_cm": {
+          "l": 10,
+          "w": 7,
+          "h": 3
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥42.0已低于竞品最低¥96.6",
+        "details": [
+          "品类: 首饰化妆收纳 · 1688销量: 2,700件",
+          "店铺: 义乌市格度箱包 · 3.0年 · 评价4.6分",
+          "物流: 0.08kg · 空运费¥4.40",
+          "定价: ¥7.0 → ¥42 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "义乌市格度箱包",
+        "years_active": 3.0,
+        "rating": 4.6,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "市场验证",
+          "color": "blue"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-18",
+      "rank": 18,
+      "score": 64.65,
+      "product": {
+        "title_zh": "可折叠网眼洗漱包手提沥水篮洗澡篮健身游泳大容量浴室收纳浴篮",
+        "title_es": "",
+        "category": "浴室厨房折叠",
+        "image_url": "https://placehold.co/400x300/FFCCBC/BF360C?text=折叠洗澡篮",
+        "source_url": "https://detail.1688.com/offer/923793099616.html",
+        "description": "可折叠网眼洗澡篮沥水篮，2.8万+销量。墨西哥大学宿舍/合租房浴室共用场景刚需，折叠后4cm扁平发货运费可控。"
+      },
+      "cost": {
+        "purchase_price_rmb": 8.0,
+        "air_freight_rmb": 9.68,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.12,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 38.8
+      },
+      "pricing": {
+        "suggested_price_rmb": 48.0,
+        "suggested_price_mxn": 114.29,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.1117
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 210,
+        "shopee_mx_lowest_mxn": 225,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥40"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.15,
+        "volumetric_weight_kg": 0.176,
+        "chargeable_weight_kg": 0.176,
+        "dimensions_cm": {
+          "l": 22,
+          "w": 16,
+          "h": 3
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥48.0已低于竞品最低¥88.2",
+        "details": [
+          "品类: 浴室厨房折叠 · 1688销量: 28,000件",
+          "店铺: 丽水一咚家居 · 2.0年 · 评价4.5分",
+          "物流: 0.18kg · 空运费¥9.68",
+          "定价: ¥8.0 → ¥48 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "丽水一咚家居",
+        "years_active": 2.0,
+        "rating": 4.5,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-19",
+      "rank": 19,
+      "score": 63.1,
+      "product": {
+        "title_zh": "PU皮革化妆刷收纳筒圆形便携防尘笔筒高颜值桌面化妆工具收纳盒",
+        "title_es": "",
+        "category": "首饰化妆收纳",
+        "image_url": "https://placehold.co/400x300/FFCCBC/BF360C?text=化妆刷收纳筒",
+        "source_url": "https://detail.1688.com/offer/999036927136.html",
+        "description": "PU皮革化妆刷收纳筒，仅35g运费几乎为零。墨西哥美妆文化浓厚，化妆刷收纳为增量市场，皮革材质精致高溢价。"
+      },
+      "cost": {
+        "purchase_price_rmb": 5.6,
+        "air_freight_rmb": 1.93,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.08,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 28.61
+      },
+      "pricing": {
+        "suggested_price_rmb": 33.6,
+        "suggested_price_mxn": 80.0,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.0685
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 230,
+        "shopee_mx_lowest_mxn": 260,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥63"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.035,
+        "volumetric_weight_kg": 0.032,
+        "chargeable_weight_kg": 0.035,
+        "dimensions_cm": {
+          "l": 8,
+          "w": 8,
+          "h": 3
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥33.6已低于竞品最低¥96.6",
+        "details": [
+          "品类: 首饰化妆收纳 · 1688销量: 12,000件",
+          "店铺: 义乌卓尔雅 · 2.5年 · 评价4.5分",
+          "物流: 0.04kg · 空运费¥1.93",
+          "定价: ¥5.6 → ¥34 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "义乌卓尔雅",
+        "years_active": 2.5,
+        "rating": 4.5,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "id": "seed-20",
+      "rank": 20,
+      "score": 60.24,
+      "product": {
+        "title_zh": "大容量立式化妆包可折叠便携旅行洗漱化妆品收纳包跨境高颜值",
+        "title_es": "",
+        "category": "旅行便携收纳",
+        "image_url": "https://placehold.co/400x300/FCE4EC/F06292?text=立式化妆包",
+        "source_url": "https://detail.1688.com/offer/943587494835.html",
+        "description": "大容量立式化妆包可折叠便携，3.9万+销量。墨西哥女性化妆品消费力强，立式设计取用方便，跨境高颜值款差异化强。"
+      },
+      "cost": {
+        "purchase_price_rmb": 6.7,
+        "air_freight_rmb": 8.25,
+        "packaging_fee_rmb": 3.0,
+        "damage_cost_rmb": 0.1,
+        "last_mile_fee_rmb": 18.0,
+        "total_cost_rmb": 36.05
+      },
+      "pricing": {
+        "suggested_price_rmb": 40.2,
+        "suggested_price_mxn": 95.71,
+        "markup_ratio": 6.0,
+        "estimated_margin": 0.0232
+      },
+      "competition": {
+        "temu_mx_lowest_mxn": 240,
+        "shopee_mx_lowest_mxn": 270,
+        "competitor_count": 2,
+        "price_advantage": "低于竞品¥61"
+      },
+      "logistics": {
+        "actual_weight_kg": 0.15,
+        "volumetric_weight_kg": 0.144,
+        "chargeable_weight_kg": 0.15,
+        "dimensions_cm": {
+          "l": 18,
+          "w": 12,
+          "h": 4
+        }
+      },
+      "reason": {
+        "primary": "6倍溢价¥40.2已低于竞品最低¥100.8",
+        "details": [
+          "品类: 旅行便携收纳 · 1688销量: 15,000件",
+          "店铺: 义乌市桓痕日用 · 2.5年 · 评价4.6分",
+          "物流: 0.15kg · 空运费¥8.25",
+          "定价: ¥6.7 → ¥40 (×6.0)"
+        ],
+        "festival_relevance": ""
+      },
+      "store": {
+        "name": "义乌市桓痕日用",
+        "years_active": 2.5,
+        "rating": 4.6,
+        "delivery_hours": 24
+      },
+      "tags": [
+        {
+          "label": "爆款验证",
+          "color": "red"
+        },
+        {
+          "label": "极致性价比",
+          "color": "orange"
+        }
+      ]
+    }
+  ],
+  "active_festivals": [
+    {
+      "id": "world_cup_2026",
+      "name_zh": "2026世界杯（墨西哥联办）",
+      "name_es": "Copa Mundial 2026",
+      "date": "2026-07-19",
+      "days_until": 10,
+      "weight": 2.8379
+    },
+    {
+      "id": "guelaguetza_2026",
+      "name_zh": "Guelaguetza文化节",
+      "name_es": "Guelaguetza",
+      "date": "2026-07-27",
+      "days_until": 18,
+      "weight": 1.5035
+    },
+    {
+      "id": "back_to_school_2026",
+      "name_zh": "返校季",
+      "name_es": "Regreso a Clases",
+      "date": "2026-08-25",
+      "days_until": 47,
+      "weight": 0.4397
+    }
+  ],
+  "summary": {
+    "total_candidates": 20,
+    "selected_count": 20,
+    "avg_margin": 0.2326,
+    "avg_price_mxn": 154.96
+  }
+}
